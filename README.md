@@ -60,7 +60,7 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 | Engineer Fix Cooldown | The cooldown of Engineer's fixing sabotage | 10~60s | 25s |
 
 -----------------------
-## cat
+## Cat
 ### **Team: Crewmate**
 The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner targeted, Their protect cooldown decreases. They don't die.
 
