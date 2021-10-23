@@ -62,7 +62,7 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 -----------------------
 ## Cat
 ### **Team: Crewmate**
-The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner targeted, Their protect cooldown decreases. They don't die.
+The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner has targeted, Their protect cooldown decreases. They don't die.
 
 ### Game Options
 | Name | Description | range | Default |
@@ -73,9 +73,19 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 | How many player can be tracked by cat | The number of player cats can track | 1~5 players | 2 players |
 | cat count | The number of cats | 1~2 players | 1 player |
 
+-----------------------
 ## Jester
-### **Team: Neutral**
+### **Team: Neutral evil**
 wining : being ejected
 |Settings|Range|Default|Description|
 |---|---|---|---|
 |Chance|0%-100%|0%|Chance of Jester Spawning|
+
+-----------------------
+## Survivor
+### **Team: Neutral benign**
+wining : surviving the game
+if survivor as long as survived, they will win with winner.
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Survivor Spawning|
