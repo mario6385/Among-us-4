@@ -77,15 +77,25 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 ## Jester
 ### **Team: Neutral evil**
 wining : being ejected
-|Settings|Range|Default|Description|
+|Settings|Description|Range|Default|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Jester Spawning|
+|Chance|The percentage probability of the Jester appearing|0%-100%|0%|
 
 -----------------------
 ## Survivor
 ### **Team: Neutral benign**
 wining : surviving the game\
 if survivor as long as survived, they will win with winner.
-|Settings|Range|Default|Description|
+|Settings|Description|Range|Default|Description|
 |---|---|---|---|
-|Chance|0%-100%|0%|Chance of Survivor Spawning|
+|Chance|0%-100%|0%|The percentage probability of the Survivor appearing|
+
+-----------------------
+## Janitor
+### **Team: Impostor**
+The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ability have a shared cooldown, meaning they have to choose which one they want to use.
+
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Janitor | The percentage probability of the Janitor appearing | 0%~100% | 0% |
