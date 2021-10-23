@@ -77,7 +77,7 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 ## Jester
 ### **Team: Neutral evil**
 wining : being ejected
-|Settings|Description|Range|Default|
+|Name|Description|Range|Default|
 |---|---|---|---|
 |Chance|The percentage probability of the Jester appearing|0%-100%|0%|
 
@@ -86,9 +86,9 @@ wining : being ejected
 ### **Team: Neutral benign**
 wining : surviving the game\
 if survivor as long as survived, they will win with winner.
-|Settings|Description|Range|Default|Description|
+|Name|Description|Range|Default|
 |---|---|---|---|
-|Chance|0%-100%|0%|The percentage probability of the Survivor appearing|
+|Chance|The percentage probability of the Survivor appearing|0%-100%|0%|
 
 -----------------------
 ## Janitor
