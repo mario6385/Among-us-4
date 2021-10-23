@@ -84,8 +84,7 @@ wining : being ejected
 -----------------------
 ## Survivor
 ### **Team: Neutral benign**
-wining : surviving the game
-
+wining : surviving the game\
 if survivor as long as survived, they will win with winner.
 |Settings|Range|Default|Description|
 |---|---|---|---|
