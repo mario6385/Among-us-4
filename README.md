@@ -57,4 +57,25 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 |----------|:-------------:|:------:|:------:|
 | Engineer | The percentage probability of the Engineer appearing | 0%~100% | 0% |
 | Engineer Fix Per | Whether the Engineer can fix 1 sabotage per round or per game | None / Round / Game | Round |
-| Sheriff Kill Cooldown | The cooldown of Engineer's fixing sabotage | 10~60s | 25s |
+| Engineer Fix Cooldown | The cooldown of Engineer's fixing sabotage | 10~60s | 25s |
+
+-----------------------
+## cat
+### **Team: Crewmate**
+The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner targeted, Their protect cooldown decreases. They don't die.
+
+### Game Options
+| Name | Description | range | Default |
+|----------|:-------------:|:------:|:------:|
+| Cat | The percentage probability of the Cat appearing | 0%~100% | 0% |
+| Owner | The percentage probability of the Owner appearing | 0%~100% | 0% |
+| Cat protect cooldown decrease by: | - | 5s~30s | 10s |
+| How many player can be tracked by cat | The number of player cats can track | 1~5 players | 2 players |
+| cat count | The number of cats | 1~2 players | 1 player |
+
+## Jester
+### **Team: Neutral**
+wining : being ejected
+|Settings|Range|Default|Description|
+|---|---|---|---|
+|Chance|0%-100%|0%|Chance of Jester Spawning|
