@@ -14,6 +14,11 @@ version 1
 - [Morphling](#morphling) 
 - [Blackmailer](#blackmailer) 
 **version 2 roles:**<br/>
+- [Executioner](#executioner)
+- [Yandere](#yandere)
+- [Serial killer](#serial-killer)
+- [Arsonist](#arsonist)
+- [Glitch](#glitch)
 -----------------------
 # Roles
 # version 1 roles
@@ -162,18 +167,20 @@ Yandere is an Impostor who can make 1 player their member or kill. Yandere's mem
 
 -----------------------
 ## Serial killer
+![1 연쇄 살인마](https://user-images.githubusercontent.com/93028495/138580964-bd2fe38f-70b3-4794-a626-8f61e6031d24.png)
 ### **Team: Serial killer**
 win condition: killing all crewmates and impostors
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
 | Serial killer | The percentage probability of the Serial killer appearing | 0%~100% | 0% |
-| Serial killer can use vent | whether the serial killer can use vent | 1~2 players | 1 player |
-| Serial killer count | number of Serial killer count | 1~3 players | 1 player |
+| Serial killer can use vent | whether the serial killer can use vent | True/ | 1 player |
+| Serial killer count | number of Serial killer count | True/False | False |
 
 -----------------------
 ## Arsonist
+![2 방화범](https://user-images.githubusercontent.com/93028495/138580970-2852d4b9-7775-4667-8e1a-357fc8bea9c9.png)
 ### **Team: Serial killer**
-The Arsonist is a Neutral.They have the ability to douse other players with gasoline.\
+The Arsonist is a Serial killer who can douse other players.\
 Once they have doused every player remaining, they can Ignite everyone at once.\
 Upon Igniting every player, they win the game.
 ### Game Options
@@ -181,4 +188,22 @@ Upon Igniting every player, they win the game.
 |----------|:-------------:|:------:|:------:|
 | Arsonist | The percentage probability of the Arsonist appearing | 0%~100% | 0% |
 | Douse Cooldown | The cooldown of the Arsonist's Douse button | 10s~60s | 10s |
+| Arsonist count | number of Arsonist count | True/False | False |
 
+-----------------------
+## The Glitch
+### **Team: Serial killer**
+The Glitch is a Serial killer who can Hack players. hacked player can't report bodies and do tasks.\
+Hacking prevents the hacked player from doing anything but walk around the map.\
+The Glitch can Mimic someone, which results in them looking exactly like the other person.
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| The Glitch | The percentage probability of The Glitch appearing | Percentage | 0% |
+| Mimic Cooldown | The cooldown of The Glitch's Mimic button | Time | 30s |
+| Mimic Duration | How long The Glitch can Mimic a player | Time | 10s |
+| Hack Cooldown | The cooldown of The Glitch's Hack button | Time | 30s |
+| Hack Duration | How long The Glitch can Hack a player | Time | 10s |
+| Glitch Kill Cooldown | The cooldown of the Glitch's Kill button | Time | 30s |
+| Initial Glitch Kill Cooldown | The cooldown of The Glitch's Kill button at the start of a game | Time | 10s |
+| Glitch Hack Distance | How far away The Glitch can Hack someone from | Short / Normal / Long | Short |
