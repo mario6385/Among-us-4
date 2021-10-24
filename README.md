@@ -235,11 +235,33 @@ The Guardian is a crewmate who can protect any player they wish for 1 round. In 
 -----------------------
 ## Swapper
 ![6 운명술사](https://user-images.githubusercontent.com/93028495/138583790-de234251-8d24-4dd1-a9bf-f6e25db318bd.png)
+### **Team: Crewmate**
+The Swapper is a Crewmate who activates in meetings. The Swapper can swap votes of 2 players and change who potentially gets voted out. However, if none of the Swapper's targets gets voted out, then the 2 players will switch bodies for the next round, changing how they look and their name. Once the next meeting starts, they will change place.
+| Name | Description | range | Default |
+|----------|:-------------:|:------:|:------:|
+| Swapper | The percentage probability of the Swapper appearing | 0%~100% | 0% |
 
 -----------------------
 ## Mayor
 ![7 시장](https://user-images.githubusercontent.com/93028495/138583858-d523a724-e971-4a14-9dfd-9f094833fc24.png)
+### **Team: Crewmate**
+The Mayor is a Crewmate that can vote multiple times.\
+The Mayor has a Vote Bank, which is the number of times they can vote.\
+They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
+As long as not everyone has voted, the Mayor can use as many votes from their Vote Bank as they please.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Mayor | The percentage probability of the Mayor appearing | 0%~100% | 0% |
+| Mayor's Vote |  | 2~5 | 2 |
+| Mayor Votes Show Anonymous | Whether the Mayor's extra votes will show up anonymously | True/False | False |
 
 ------------------------
 ## Dictator
 ![8 독재자](https://user-images.githubusercontent.com/93028495/138583865-e855d924-5118-4aa6-be64-ae61caf8ea54.png)
+### **Team: Crewmate**
+The Dictator's opportunities make vote calculated to be one vote more than half of the number of players.(But dictator can't use their opportunities in two day in a row.)
+settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| dictaor | The percentage probability of the dictator appearing | 0%~100% | 0% |
+| dictaor's opportunities | number of dictaor's opportunities | 5~50 opportunities | 50 opportunities |
