@@ -193,6 +193,7 @@ Upon Igniting every player, they win the game.
 
 -----------------------
 ## Glitch
+![3 글리치](https://user-images.githubusercontent.com/93028495/138583305-3e496e53-9acb-42b6-b06f-9fe13098eb11.png)
 ### **Team: Serial killer**
 The Glitch is a Serial killer who can Hack players. hacked player can't report bodies and do tasks.\
 Hacking prevents the hacked player from doing anything but walk around the map.\
