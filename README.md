@@ -381,10 +381,10 @@ settings
 -------------------------
 ## Poisoner
 ### **Team: Coven**
-The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.
+The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.\
 | Name | Description | Range | Default |
-| Poisoner |The percentage probability of the Poisoner appearing|0%~100%|0%|
-|Poison Cooldown|The cooldown of Poisoning a player|10s-60s|30s|
+| Poisoner |The percentage probability of the Poisoner appearing| 0%~100% |0% |
+| Poison Cooldown | The cooldown of Poisoning a player | 10s-60s | 30s |
 
 ---------------------------
 ## Team "town of roles" member
