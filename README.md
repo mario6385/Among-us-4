@@ -13,7 +13,7 @@ version 1
 - [Janitor](#janitor) 
 - [Morphling](#morphling) 
 - [Blackmailer](#blackmailer) 
-
+**version 2 roles:**<br/>
 -----------------------
 # Roles
 # version 1 roles
@@ -67,8 +67,9 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 | Engineer Fix Cooldown | The cooldown of Engineer's fixing sabotage | 10~60s | 25s |
 
 -----------------------
-## Cat(town of roles member's idea 1)
+## Cat
 ![4 고양이](https://user-images.githubusercontent.com/93028495/138575599-584232b1-986d-48dd-abbe-35304bcfa8bb.png)
+sunny6386's idea
 ### **Team: Crewmate**
 The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner has targeted, Their protect cooldown decreases. They don't die.
 
@@ -85,7 +86,7 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 ## Jester
 ![1 어릿광대](https://user-images.githubusercontent.com/93028495/138575605-ccefd29b-586f-4356-8c7e-bc560001c670.png)
 ### **Team: Neutral evil**
-wining : being ejected
+win condition: being ejected
 |Name|Description|Range|Default|
 |---|---|---|---|
 |Chance|The percentage probability of the Jester appearing|0%-100%|0%|
@@ -94,7 +95,7 @@ wining : being ejected
 ## Survivor
 ![2 생존자](https://user-images.githubusercontent.com/93028495/138575617-f006b825-292d-41d6-a2d3-5aa900ce7cb1.png)
 ### **Team: Neutral benign**
-wining : surviving the game\
+win condition: surviving the game\
 if survivor as long as survived, they will win with winner.
 |Name|Description|Range|Default|
 |---|---|---|---|
@@ -112,8 +113,9 @@ The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ab
 | Janitor | The percentage probability of the Janitor appearing | 0%~100% | 0% |
 
 -----------------------
-## Morphling(To)
+## Morphling
 ![2 변장자](https://user-images.githubusercontent.com/93028495/138575860-6e7483f5-98c0-4e0a-825c-4164b0946bdd.png)
+sunny6386's idea
 ### **Team: Impostor**
 The Morphling is an Impostor who can Morph into another player. At the beginning of the game and after every meeting, they can choose someone to Sample. They can then Morph into that person at any time for a limited amount of time. To balance the role, they can't use vent while disguise.
 
@@ -135,3 +137,48 @@ The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. Wh
 | Blackmail Cooldown | The cooldown of Blackmailing | 10~60s | 10s |
 | How many player can be Blackmailed in 1 round | The number of player Blackmailer can Blackmail in 1 round | 1~3 players | 1 player |
 | Blackmailed Duration | How long Blackmailing lasts for | 1~2 round | 1 round |
+
+-----------------------
+# version 2 roles
+![3 사형 집행인](https://user-images.githubusercontent.com/93028495/138578527-ad85a2ab-2911-462c-bdec-092327779bb5.png)
+## Executioner
+### **Team: Neutral evil**
+win condition: getting their target ejected
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Executioner | The percentage probability of the Executioner appearing | 0%~100% | 0% |
+| Executioner becomes on Target Dead | Which role the Executioner becomes when their target dies | Crewmate / Jester | Crewmate |
+
+-----------------------
+## Yandere
+![4 집착증자](https://user-images.githubusercontent.com/93028495/138578534-d98982cc-c01e-40b6-af8c-277fa761f4a0.png)
+### **Team: Impostor**
+Yandere is an Impostor who can make 1 player their member or kill. Yandere's member is Yanderate. 
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Yandere | The percentage probability of the Yandere appearing | 0%~100% | 0% |
+| Yandere member count | number of Yandere member count | 1~2 players | 1 player |
+
+-----------------------
+## Serial killer
+### **Team: Serial killer**
+win condition: killing all crewmates and impostors
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Serial killer | The percentage probability of the Serial killer appearing | 0%~100% | 0% |
+| Serial killer can use vent | whether the serial killer can use vent | 1~2 players | 1 player |
+| Serial killer count | number of Serial killer count | 1~3 players | 1 player |
+
+-----------------------
+## Arsonist
+### **Team: Serial killer**
+The Arsonist is a Neutral.They have the ability to douse other players with gasoline.\
+Once they have doused every player remaining, they can Ignite everyone at once.\
+Upon Igniting every player, they win the game.
+### Game Options
+| Name | Description | Type | Default |
+|----------|:-------------:|:------:|:------:|
+| Arsonist | The percentage probability of the Arsonist appearing | 0%~100% | 0% |
+| Douse Cooldown | The cooldown of the Arsonist's Douse button | 10s~60s | 10s |
+
