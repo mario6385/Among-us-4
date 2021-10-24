@@ -1,7 +1,10 @@
 # Among us 4: new 9 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
-version 1
-
+this is version 1 of Among us 4.
+![버전 2](https://user-images.githubusercontent.com/93028495/138583975-cfa29af4-afaa-417e-ae6e-afb38d48d194.png)
+this is version 2 of Among us 4.
+![버전 3](https://user-images.githubusercontent.com/93028495/138583983-ad5fcc26-4a70-4599-9e65-dbd4e3e28524.png)
+this is version 3 of Among us 4.
 
 **version 1 roles:**<br/>
 - [Medic](#medic)
@@ -22,6 +25,10 @@ version 1
 - [Glitch](#glitch)
 
 **version 3 roles:**<br/>
+- [Guardian](#guardian)
+- [Swapper](#swapper)
+- [Mayor](#mayor)
+- [Dictator](#dictator)
 
 -----------------------
 # Roles
