@@ -1,5 +1,5 @@
 # Among us 4: new 9 roles
-![버전 1](https://user-images.githubusercontent.com/93028495/138575531-6965ef6a-dd7f-497a-a88e-469065bf88f4.png)
+![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 
 
 **version 1 roles:**<br/>
@@ -112,7 +112,7 @@ The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ab
 
 -----------------------
 ## Morphling
-![2 변장자](https://user-images.githubusercontent.com/93028495/138575645-64f75ed2-86ee-4bdd-af37-96d4dacff190.png)
+![2 변장자](https://user-images.githubusercontent.com/93028495/138575860-6e7483f5-98c0-4e0a-825c-4164b0946bdd.png)
 ### **Team: Impostor**
 The Morphling is an Impostor who can Morph into another player. At the beginning of the game and after every meeting, they can choose someone to Sample. They can then Morph into that person at any time for a limited amount of time. To balance the role, they can't use vent while disguise.
 
