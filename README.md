@@ -185,6 +185,7 @@ win condition: getting their target ejected
 -----------------------
 ## Yandere
 ![4 집착증자](https://user-images.githubusercontent.com/93028495/138578534-d98982cc-c01e-40b6-af8c-277fa761f4a0.png)
+**sunny6386's idea**
 ### **Team: Impostor**
 Yandere is an Impostor who can make 1 player their member or kill. Yandere's member is Yanderate. 
 | Name | Description | Type | Default |
@@ -285,6 +286,7 @@ settings
 -------------------------
 # version 4 roles
 ## Phoenix
+### **Team: Crewmate**
 ![9 불사신](https://user-images.githubusercontent.com/93028495/138585431-9a9bf897-4a29-461e-9861-610398d38aa9.png)
 the phoenix is a Crewmate who can revive so as to be able to bring back 1 ghost per 1 round or kill 1 player(but if it's impostor, they can kill again) or reveal their name for 5 seconds. they can be cleansed.
 settings
@@ -298,6 +300,7 @@ settings
 
 -------------------------
 ## Spirit
+### **Team: Crewmate**
 ![10 스피릿](https://user-images.githubusercontent.com/93028495/138586230-dea19397-9774-4bc0-9d12-cdab5fda7c4f.png)
 The spirit can't be voted out until only 3 player survive in the game. they can't be killed by sheriff until only 3 player survive in the game.
 settings
@@ -334,9 +337,32 @@ settings
 | Witch is Impostor | Whether witch is Impostor | 0%~100% | 0% |
 
 ## Investigator
-The Investigator is a Crewmate who finishes their tasks so as to be able to investigate the role of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.
+### **Team: Crewmate**
+![12 조사관](https://user-images.githubusercontent.com/93028495/138590702-5d71e84d-caaf-47e7-bea2-a3646214758b.png)
+The Investigator is a Crewmate who finishes their tasks so as to be able to investigate the role of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.\
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Investigator | The percentage probability of the Investigator appearing | 0%~100% | 0% |
 | finish tasks first | whether The Investgator Must finish their tasks so as to Investigate role of other player | True/False | True |
+
+------------------------
+## Mentalist
+### **Team: Crewmate**
+![11 심리학자](https://user-images.githubusercontent.com/93028495/138590689-986e036e-0ba7-408e-b949-acdd87610b26.png)
+The mentalist is a crewmate who can observe 2 players so as to investigate whether they are on the same team.\
+settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Mentalist | The percentage probability of the Mentalist appearing | 0%~100% | 0% |
+| Observe cooldown | The cooldown of observing whether 2 players are on the same team | 10s~60s | 10s |
+
+------------------------
+## Student president
+**sunny6386's idea**
+### **Team: Crewmate**
+Other name:Studesident
+The Student president is a Crewmate who can kill impostor who killed other player if they saw. 
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Student president | The percentage probability of the Student president appearing | 0%~100% | 0% |
