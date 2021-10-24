@@ -1,5 +1,6 @@
 # Among us 4: new 9 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
+version 1
 
 
 **version 1 roles:**<br/>
