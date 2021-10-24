@@ -9,7 +9,7 @@ this is version 3 of Among us 4(Among us 4: new 18 roles).
 this is version 4 of Among us 4(Among us 4: new 22 roles).
 ![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
 this is version 5 of Among us 4(Among us 4: new 27 roles).
-**version 1 roles:**<br/>
+**version 1 roles**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
 - [Engineer](#engineer) 
@@ -20,31 +20,35 @@ this is version 5 of Among us 4(Among us 4: new 27 roles).
 - [Morphling](#morphling) 
 - [Blackmailer](#blackmailer)
 
-**version 2 roles:**<br/>
+**version 2 roles**<br/>
 - [Executioner](#executioner)
 - [Yandere](#yandere)
 - [Serial killer](#serial-killer)
 - [Arsonist](#arsonist)
 - [Glitch](#glitch)
 
-**version 3 roles:**<br/>
+**version 3 roles**<br/>
 - [Guardian](#guardian)
 - [Swapper](#swapper)
 - [Mayor](#mayor)
 - [Dictator](#dictator)
 
-**version 4 roles:**<br/>
+**version 4 roles**<br/>
 - [Phoenix](#phoenix)
 - [Spirit](#spirit)
 - [Anti tasker](anti-tasker)
 - [Crewstor](#crewstor)
 
-**version 5 roles:**<br/>
+**version 5 roles**<br/>
 - [Investigator](#investigator)
 - [Mentalist](#mentalist)
 - [Student president](#student-president)
 - [Witch](#witch)
 - [Poisoner](#poisoner)
+
+[see "town of roles" member](#team-town-of-roles-member)
+Reference: https://www.youtube.com/watch?v=xOrHMFUIR1w
+
 -----------------------
 # Roles
 # version 1 roles
@@ -401,3 +405,13 @@ people who plays the game with mario6385 together(Private members)
 - bluecheeze
 - kiyo
 - cheeze
+
+-----------------------------
+## References
+https://www.youtube.com/watch?v=xOrHMFUIR1w: video for adding role "medic" and "crewstor"
+https://www.youtube.com/watch?v=UFp6BKU0q9w: video for adding role "sheriff"
+https://www.youtube.com/watch?v=saOcYYpOBGY: video for adding role "engineer"
+https://www.youtube.com/watch?v=hTFYWcuveqc: video for adding role "jester"
+https://www.youtube.com/watch?v=ovKwflBLve4: video for adding role "guardian"
+https://www.youtube.com/watch?v=wNyK6LgtA20: video for adding role "swapper"
+https://www.youtube.com/watch?v=LhYa566Tu-A: video for adding role "dictator"
