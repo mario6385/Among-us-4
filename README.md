@@ -5,6 +5,8 @@ this is version 1 of Among us 4.
 this is version 2 of Among us 4.
 ![버전 3](https://user-images.githubusercontent.com/93028495/138583983-ad5fcc26-4a70-4599-9e65-dbd4e3e28524.png)
 this is version 3 of Among us 4.
+![버전 4](https://user-images.githubusercontent.com/93028495/138585089-39ad1adc-9f72-4b40-8155-adad51658d21.png)
+this is version 4 of Among us 4.
 
 **version 1 roles:**<br/>
 - [Medic](#medic)
@@ -29,6 +31,12 @@ this is version 3 of Among us 4.
 - [Swapper](#swapper)
 - [Mayor](#mayor)
 - [Dictator](#dictator)
+
+**version 4 roles:**<br/>
+- [Phoenix](#phoenix)
+- [Spirit](#spirit)
+- [Anti tasker](anti-tasker)
+- [Crewstor](#crewstor)
 
 -----------------------
 # Roles
@@ -152,7 +160,7 @@ The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. Wh
 | Blackmailer | The percentage probability of the Blackmailer appearing | 0%~100% | 0% |
 | Blackmail Cooldown | The cooldown of Blackmailing | 10~60s | 10s |
 | How many player can be Blackmailed in 1 round | The number of player Blackmailer can Blackmail in 1 round | 1~3 players | 1 player |
-| Blackmailed Duration | How long Blackmailing lasts for | 1~2 round | 1 round |
+| Blackmailing Duration | How long Blackmailing lasts for | 1~2 round | 1 round |
 
 -----------------------
 # version 2 roles
@@ -245,7 +253,7 @@ The Swapper is a Crewmate who activates in meetings. The Swapper can swap votes 
 ## Mayor
 ![7 시장](https://user-images.githubusercontent.com/93028495/138583858-d523a724-e971-4a14-9dfd-9f094833fc24.png)
 ### **Team: Crewmate**
-The Mayor is a Crewmate that can vote multiple times.\
+The Mayor is a Crewmate who can vote multiple times.\
 The Mayor has a Vote Bank, which is the number of times they can vote.\
 They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
 As long as not everyone has voted, the Mayor can use as many votes from their Vote Bank as they please.
@@ -263,5 +271,48 @@ The Dictator's opportunities make dictator able to kill 1 player at one meetings
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
-| dictaor | The percentage probability of the dictator appearing | 0%~100% | 0% |
-| dictaor's opportunities | number of dictaor's opportunities | 5~50 opportunities | 50 opportunities |
+| dictator | The percentage probability of the dictator appearing | 0%~100% | 0% |
+| dictator's opportunities | number of dictaor's opportunities | 5~50 opportunities | 50 opportunities |
+
+-------------------------
+# version 4 roles
+## Phoenix
+![9 불사신](https://user-images.githubusercontent.com/93028495/138585431-9a9bf897-4a29-461e-9861-610398d38aa9.png)
+the phoenix is a Crewmate who can revive so as to be able to bring back 1 ghost per 1 round or kill 1 player(but if it's impostor, they can kill again) or reveal their name for 5 seconds. they can be cleansed.
+settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Phoenix | The percentage probability of the Phoenix appearing | 0%~100% | 0% |
+| Phoenix revive per | Whether the Phoenix can revive ghost per round or per game | None/Round/game | Round |
+| Phoenix kill cooldown | The cooldown of Phoenix's killing | 0s~30s | 0s |
+| Phoenix reveal duration | The duration of Phoenix's revealing | 5s~10s | 5s |
+| Phoenix reveal | The duration of Phoenix's revealing | 5s~10s | 5s |
+
+-------------------------
+## Spirit
+![10 스피릿](https://user-images.githubusercontent.com/93028495/138586230-dea19397-9774-4bc0-9d12-cdab5fda7c4f.png)
+The spirit can't be voted out until only 3 player survive in the game. they can't be killed by sheriff until only 3 player survive in the game.
+settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Spirit | The percentage probability of the Spirit appearing | 0%~100% | 0% |
+
+-------------------------
+## Anti tasker
+![5 속박자](https://user-images.githubusercontent.com/93028495/138586296-033bad89-c53b-44f8-9034-f87f01218d69.png)
+The Antitasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.
+setting
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Anti tasker | The percentage probability of the Anti tasker appearing | 0%~100% | 0% |
+| Taskblock Cooldown | The cooldown of Taskblocking | 10~60s | 10s |
+| How many player can be Taskblocked in 1 round | The number of player Blackmailer can Taskblock in 1 round | 1~3 players | 1 player |
+| Taskblocking Duration | How long Blackmailing lasts for | 1~2 round | 1 round |
+
+-------------------------
+## Crewstor
+![6 크루스터](https://user-images.githubusercontent.com/93028495/138586300-6c8b3831-5b8a-4366-9a72-8eb64d576837.png)
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Crewstor | The percentage probability of the Crewstor appearing | 0%~100% | 0% |
+| Crewstor's tasks | The number of Crewstor's tasks | 10~30 tasks | 10 tasks |
