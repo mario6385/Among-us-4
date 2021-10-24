@@ -252,7 +252,7 @@ As long as not everyone has voted, the Mayor can use as many votes from their Vo
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Mayor | The percentage probability of the Mayor appearing | 0%~100% | 0% |
-| Mayor's Vote |  | 2~5 | 2 |
+| Mayor's Vote |  | 2~5 votes | 2 votes |
 | Mayor Votes Show Anonymous | Whether the Mayor's extra votes will show up anonymously | True/False | False |
 
 ------------------------
