@@ -75,7 +75,7 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 -----------------------
 ## Cat
 ![4 고양이](https://user-images.githubusercontent.com/93028495/138575599-584232b1-986d-48dd-abbe-35304bcfa8bb.png)
-sunny6386's idea
+**sunny6386's idea**
 ### **Team: Crewmate**
 The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner has targeted, Their protect cooldown decreases. They don't die.
 
@@ -121,7 +121,7 @@ The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ab
 -----------------------
 ## Morphling
 ![2 변장자](https://user-images.githubusercontent.com/93028495/138575860-6e7483f5-98c0-4e0a-825c-4164b0946bdd.png)
-sunny6386's idea
+**sunny6386's idea**
 ### **Team: Impostor**
 The Morphling is an Impostor who can Morph into another player. At the beginning of the game and after every meeting, they can choose someone to Sample. They can then Morph into that person at any time for a limited amount of time. To balance the role, they can't use vent while disguise.
 
