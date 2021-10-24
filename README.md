@@ -333,6 +333,10 @@ settings
 |----------|:-------------:|:------:|:------:|
 | Witch is Impostor | Whether witch is Impostor | 0%~100% | 0% |
 
-## investigator
+## Investigator
 The Investigator is a Crewmate who finishes their tasks so as to be able to investigate the role of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.
 settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Investigator | The percentage probability of the Investigator appearing | 0%~100% | 0% |
+| finish tasks first | whether The Investgator Must finish their tasks so as to Investigate role of other player | True/False | True |
