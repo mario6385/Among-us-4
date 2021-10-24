@@ -7,7 +7,9 @@ this is version 2 of Among us 4.
 this is version 3 of Among us 4.
 ![버전 4](https://user-images.githubusercontent.com/93028495/138585089-39ad1adc-9f72-4b40-8155-adad51658d21.png)
 this is version 4 of Among us 4.
+![버전 5](https://user-images.githubusercontent.com/93028495/138586629-6c4a359c-1e58-4707-92c7-96604b7065a5.png)
 
+this is version 4 of Among us 4.
 **version 1 roles:**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
@@ -38,6 +40,12 @@ this is version 4 of Among us 4.
 - [Anti tasker](anti-tasker)
 - [Crewstor](#crewstor)
 
+**version 5 roles:**<br/>
+- [Investigator](#investigator)
+- [Mentalist](#mentalist)
+- [Student president](#student-president)
+- [Witch](#witch)
+- [Poisoner](#poisoner)
 -----------------------
 # Roles
 # version 1 roles
@@ -312,7 +320,19 @@ setting
 -------------------------
 ## Crewstor
 ![6 크루스터](https://user-images.githubusercontent.com/93028495/138586300-6c8b3831-5b8a-4366-9a72-8eb64d576837.png)
+The crewstor is an impostor who can do tasks for impostor's victory.
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Crewstor | The percentage probability of the Crewstor appearing | 0%~100% | 0% |
 | Crewstor's tasks | The number of Crewstor's tasks | 10~30 tasks | 10 tasks |
+
+------------------------
+# version 4 roles
+settings
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Witch is Impostor | Whether witch is Impostor | 0%~100% | 0% |
+
+## investigator
+The Investigator is a Crewmate who finishes their tasks so as to be able to investigate the role of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.
+settings
