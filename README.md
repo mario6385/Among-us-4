@@ -7,7 +7,7 @@ this is version 2 of Among us 4.
 this is version 3 of Among us 4.
 ![버전 4](https://user-images.githubusercontent.com/93028495/138585089-39ad1adc-9f72-4b40-8155-adad51658d21.png)
 this is version 4 of Among us 4.
-![버전 5](https://user-images.githubusercontent.com/93028495/138587464-72db23b8-e742-4042-8def-702460325dcd.png)
+![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
 
 this is version 4 of Among us 4.
 **version 1 roles:**<br/>
