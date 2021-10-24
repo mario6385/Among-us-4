@@ -259,7 +259,7 @@ As long as not everyone has voted, the Mayor can use as many votes from their Vo
 ## Dictator
 ![8 독재자](https://user-images.githubusercontent.com/93028495/138583865-e855d924-5118-4aa6-be64-ae61caf8ea54.png)
 ### **Team: Crewmate**
-The Dictator's opportunities make vote calculated to be one vote more than half of the number of players.(But dictator can't use their opportunities in two day in a row.)
+The Dictator's opportunities make dictator able to kill 1 player at one meetings.(But dictator can't use their opportunities in two day in a row.)
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
