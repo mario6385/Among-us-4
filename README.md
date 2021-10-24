@@ -47,7 +47,6 @@ this is version 5 of Among us 4(Among us 4: new 27 roles).
 - [Poisoner](#poisoner)
 
 [see "town of roles" member](#team-town-of-roles-member)
-Reference: https://www.youtube.com/watch?v=xOrHMFUIR1w
 
 -----------------------
 # Roles
@@ -313,6 +312,7 @@ settings
 
 -------------------------
 ## Anti tasker
+### **Team: Impostor**
 ![5 속박자](https://user-images.githubusercontent.com/93028495/138586296-033bad89-c53b-44f8-9034-f87f01218d69.png)
 The Antitasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.
 setting
@@ -325,6 +325,7 @@ setting
 
 -------------------------
 ## Crewstor
+### **Team: Impostor**
 ![6 크루스터](https://user-images.githubusercontent.com/93028495/138586300-6c8b3831-5b8a-4366-9a72-8eb64d576837.png)
 The crewstor is an impostor who can do tasks for impostor's victory.
 | Name | Description | Range | Default |
@@ -407,11 +408,9 @@ people who plays the game with mario6385 together(Private members)
 - cheeze
 
 -----------------------------
-## References
-https://www.youtube.com/watch?v=xOrHMFUIR1w: video for adding role "medic" and "crewstor"
-https://www.youtube.com/watch?v=UFp6BKU0q9w: video for adding role "sheriff"
-https://www.youtube.com/watch?v=saOcYYpOBGY: video for adding role "engineer"
-https://www.youtube.com/watch?v=hTFYWcuveqc: video for adding role "jester"
-https://www.youtube.com/watch?v=ovKwflBLve4: video for adding role "guardian"
-https://www.youtube.com/watch?v=wNyK6LgtA20: video for adding role "swapper"
-https://www.youtube.com/watch?v=LhYa566Tu-A: video for adding role "dictator"
+## references
+These roles are only in "offline among us":\
+- cat
+- student president
+- crewstor
+- yandere
