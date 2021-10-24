@@ -12,7 +12,8 @@ version 1
 - [Survivor](#survivor) 
 - [Janitor](#janitor) 
 - [Morphling](#morphling) 
-- [Blackmailer](#blackmailer) 
+- [Blackmailer](#blackmailer)
+
 **version 2 roles:**<br/>
 - [Executioner](#executioner)
 - [Yandere](#yandere)
@@ -191,7 +192,7 @@ Upon Igniting every player, they win the game.
 | Arsonist count | number of Arsonist count | True/False | False |
 
 -----------------------
-## The Glitch
+## Glitch
 ### **Team: Serial killer**
 The Glitch is a Serial killer who can Hack players. hacked player can't report bodies and do tasks.\
 Hacking prevents the hacked player from doing anything but walk around the map.\
