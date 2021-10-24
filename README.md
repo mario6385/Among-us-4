@@ -372,6 +372,7 @@ The Student president is a Crewmate who can kill impostor who killed other playe
 The Witch is a Cover leader. they can taglock any player. After a player is taglocked, the witch can choose to control them and kill any player using their target. The can only stop controlling a player after they have made a kill, or a meeting is called. They can curse other player so as to make them frog. frog can't use their ablity, or be investigated. they have a curse sabotage(cooldown: 10s).
 settings
 | Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
 |Witch|The percentage probability of the Witch appearing|0%~100%|0%|
 |Taglock Cooldown|The cooldown of Taglocking a player|10s-60s|30s|
 |Control Cooldown|The cooldown of Controlling a player|5s-60s|10s|
@@ -383,6 +384,7 @@ settings
 ### **Team: Coven**
 The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.\
 | Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
 | Poisoner |The percentage probability of the Poisoner appearing| 0%~100% |0% |
 | Poison Cooldown | The cooldown of Poisoning a player | 10s-60s | 30s |
 
