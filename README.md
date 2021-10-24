@@ -1,15 +1,14 @@
 # Among us 4: new 18 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
-this is version 1 of Among us 4.
+this is version 1 of Among us 4(Among us 4: new 9 roles).
 ![버전 2](https://user-images.githubusercontent.com/93028495/138583975-cfa29af4-afaa-417e-ae6e-afb38d48d194.png)
-this is version 2 of Among us 4.
+this is version 2 of Among us 4(Among us 4: new 14 roles).
 ![버전 3](https://user-images.githubusercontent.com/93028495/138583983-ad5fcc26-4a70-4599-9e65-dbd4e3e28524.png)
-this is version 3 of Among us 4.
+this is version 3 of Among us 4(Among us 4: new 18 roles).
 ![버전 4](https://user-images.githubusercontent.com/93028495/138585089-39ad1adc-9f72-4b40-8155-adad51658d21.png)
-this is version 4 of Among us 4.
+this is version 4 of Among us 4(Among us 4: new 22 roles).
 ![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
-
-this is version 4 of Among us 4.
+this is version 5 of Among us 4(Among us 4: new 27 roles).
 **version 1 roles:**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
@@ -366,3 +365,37 @@ The Student president is a Crewmate who can kill impostor who killed other playe
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Student president | The percentage probability of the Student president appearing | 0%~100% | 0% |
+
+------------------------
+## Witch
+### **Team: Coven**
+The Witch is a Cover leader. they can taglock any player. After a player is taglocked, the witch can choose to control them and kill any player using their target. The can only stop controlling a player after they have made a kill, or a meeting is called. They can curse other player so as to make them frog. frog can't use their ablity, or be investigated. they have a curse sabotage(cooldown: 10s).
+settings
+| Name | Description | Range | Default |
+|Witch|The percentage probability of the Witch appearing|0%~100%|0%|
+|Taglock Cooldown|The cooldown of Taglocking a player|10s-60s|30s|
+|Control Cooldown|The cooldown of Controlling a player|5s-60s|10s|
+|Curse Cooldown|The cooldown of Cursing a player|10s-60s|10s|
+|Curse duration|The duration of Cursing a player|5s-60s|10s|
+
+-------------------------
+## Poisoner
+### **Team: Coven**
+The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.
+| Name | Description | Range | Default |
+| Poisoner |The percentage probability of the Poisoner appearing|0%~100%|0%|
+|Poison Cooldown|The cooldown of Poisoning a player|10s-60s|30s|
+
+---------------------------
+## Team "town of roles" member
+### mario6385(leader)
+person who added roles
+### sunny6386
+person who plays the game with mario6385 together and added crewmate/impostor roles
+### Other members
+people who plays the game with mario6385 together(Private members)
+- tokky
+- pinkcheeze
+- bluecheeze
+- kiyo
+- cheeze
