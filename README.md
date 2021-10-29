@@ -315,7 +315,7 @@ settings
 ## Anti tasker
 ### **Team: Impostor**
 ![5 속박자](https://user-images.githubusercontent.com/93028495/138586296-033bad89-c53b-44f8-9034-f87f01218d69.png)
-The Antitasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.
+The Antitasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.\
 setting
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
