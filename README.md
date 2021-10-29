@@ -339,7 +339,7 @@ The crewstor is an impostor who can do tasks for impostor's victory.
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
-| Witch is Impostor | Whether witch is Impostor | 0%~100% | 0% |
+| Witch is Impostor | Whether witch is Impostor | True/false | false |
 
 ## Investigator
 ### **Team: Crewmate**
