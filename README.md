@@ -410,7 +410,7 @@ people who plays the game with mario6385 together(Private members)
 
 -----------------------------
 ## references
-These roles are only in "offline among us":\
+These roles are only in "offline among us":
 - cat
 - student president
 - crewstor
