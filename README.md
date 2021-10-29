@@ -366,8 +366,8 @@ settings
 ## Student president
 **sunny6386's idea**
 ### **Team: Crewmate**
-Other name:Studesident
-The Student president is a Crewmate who can kill impostor who killed other player if they saw. 
+Other name:Studesident\
+The Student president is a Crewmate who can kill impostor who killed other player if they saw. They don't die. but they can be voted out
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Student president | The percentage probability of the Student president appearing | 0%~100% | 0% |
