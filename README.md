@@ -86,6 +86,7 @@ The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Cr
 | Sheriff Kills plague bearer | Whether the Sheriff is able to kill the plague bearer | True/False | False |
 | Sheriff Kill Cooldown | The cooldown of Sheriff's killing | 10~60s | 25s |
 | Sheriff can report who they've killed | Whether the Sheriff is able to report their own kills | True/False | True |
+| Sheriff count | The number of Sheriffs | 1~3 players | 1 player |
 
 -----------------------
 ## Engineer
@@ -114,7 +115,7 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 | Owner | The percentage probability of the Owner appearing | 0%~100% | 0% |
 | Cat protect cooldown decrease by: | - | 5s~30s | 10s |
 | How many player can be tracked by cat | The number of player cats can track | 1~5 players | 2 players |
-| cat count | The number of cats | 1~2 players | 1 player |
+| Cat count | The number of Cats | 1~2 players | 1 player |
 
 -----------------------
 ## Jester
