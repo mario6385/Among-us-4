@@ -409,9 +409,20 @@ The Poisoner is a Witch who can poison any player. At meetings, a player will se
 
 ## Curser
 ### **Team: Impostor**
+|You are double killing master.|
+|----------|
+
+Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
 
 ## Predator
-### **Team: Predator**
+**win condition: Surviving the game(but can't win with winner)** \
+|You must survive the game by fooling the Impostor(s) and killing everyone.|
+|----------|
+
+Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.**\
+Predator is known as impostor if they are ejected.\
+if they win with impostor, only impostor win.\
+They can kill impostor.\
 
 ## Jackal
 ### **Team: Serial killer**
