@@ -9,6 +9,8 @@ this is version 3 of Among us 4(Among us 4: new 18 roles).
 this is version 4 of Among us 4(Among us 4: new 22 roles).
 ![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
 this is version 5 of Among us 4(Among us 4: new 27 roles).
+![버전 6 V I P](https://user-images.githubusercontent.com/93028495/140516188-c4eb0a8a-f359-44d1-aa7d-ca50dfa6aae8.png)
+this is version 6 of Among us 4(Among us 4: new 30 roles).\
 **version 1 roles**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
@@ -45,6 +47,11 @@ this is version 5 of Among us 4(Among us 4: new 27 roles).
 - [Student president](#student-president)
 - [Witch](#witch)
 - [Poisoner](#poisoner)
+
+**version 6 roles**<br/>
+- [Curser](#curser)
+- [Predator](#predator)
+- [Jackal](#jackal)
 
 [see "town of roles" member](#team-town-of-roles-member)
 
@@ -335,7 +342,7 @@ The crewstor is an impostor who can do tasks for impostor's victory.
 | Crewstor's tasks | The number of Crewstor's tasks | 10~30 tasks | 10 tasks |
 
 ------------------------
-# version 4 roles
+# version 5 roles
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -366,6 +373,7 @@ settings
 ## Student president
 **sunny6386's idea**
 ### **Team: Crewmate**
+![13 학생회장](https://user-images.githubusercontent.com/93028495/140517016-e72821ee-c1a7-4a4b-800c-ae62944601bb.png)
 Other name:Studesident\
 The Student president is a Crewmate who can kill impostor who killed other player if they saw. They don't die. but they can be voted out
 | Name | Description | Range | Default |
@@ -375,6 +383,7 @@ The Student president is a Crewmate who can kill impostor who killed other playe
 ------------------------
 ## Witch
 ### **Team: Coven**
+![1 마녀](https://user-images.githubusercontent.com/93028495/140517194-23316358-ffc7-4a85-a4c1-cd185877d81e.png)
 The Witch is a Cover leader. they can taglock any player. After a player is taglocked, the witch can choose to control them and kill any player using their target. The can only stop controlling a player after they have made a kill, or a meeting is called. They can curse other player so as to make them frog. frog can't use their ablity, or be investigated. they have a curse sabotage(cooldown: 10s).
 settings
 | Name | Description | Range | Default |
@@ -388,11 +397,24 @@ settings
 -------------------------
 ## Poisoner
 ### **Team: Coven**
+![2 독살자](https://user-images.githubusercontent.com/93028495/140517225-b11a47b8-202e-4a23-92e0-ba49d399c2b4.png)
 The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.\
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Poisoner |The percentage probability of the Poisoner appearing| 0%~100% |0% |
 | Poison Cooldown | The cooldown of Poisoning a player | 10s-60s | 30s |
+
+-------------------------
+# version 6 roles
+
+## Curser
+### **Team: Impostor**
+
+## Predator
+### **Team: Predator**
+
+## Jackal
+### **Team: Serial killer**
 
 ---------------------------
 ## Team "town of roles" member
