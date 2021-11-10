@@ -9,7 +9,7 @@ this is version 3 of Among us 4(Among us 4: new 18 roles).
 this is version 4 of Among us 4(Among us 4: new 22 roles).
 ![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
 this is version 5 of Among us 4(Among us 4: new 27 roles).
-![버전 6 V I P](https://user-images.githubusercontent.com/93028495/140516188-c4eb0a8a-f359-44d1-aa7d-ca50dfa6aae8.png)
+![버전 6](https://user-images.githubusercontent.com/93028495/141065541-fe7e4b10-e121-450b-841e-924054fafe00.png)
 this is version 6 of Among us 4(Among us 4: new 30 roles).\
 **version 1 roles**<br/>
 - [Medic](#medic)
@@ -383,6 +383,7 @@ The Student president is a Crewmate who can kill impostor who killed other playe
 ------------------------
 ## Witch
 ### **Team: Coven**
+
 ![1 마녀](https://user-images.githubusercontent.com/93028495/140517194-23316358-ffc7-4a85-a4c1-cd185877d81e.png)
 The Witch is a Cover leader. they can taglock any player. After a player is taglocked, the witch can choose to control them and kill any player using their target. The can only stop controlling a player after they have made a kill, or a meeting is called. They can curse other player so as to make them frog. frog can't use their ablity, or be investigated. they have a curse sabotage(cooldown: 10s).
 settings
@@ -397,6 +398,7 @@ settings
 -------------------------
 ## Poisoner
 ### **Team: Coven**
+
 ![2 독살자](https://user-images.githubusercontent.com/93028495/140517225-b11a47b8-202e-4a23-92e0-ba49d399c2b4.png)
 The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.\
 | Name | Description | Range | Default |
@@ -409,8 +411,6 @@ The Poisoner is a Witch who can poison any player. At meetings, a player will se
 
 ## Curser
 ### **Team: Impostor**
-|You are double killing master.|
-|----------|
 
 Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
 
@@ -426,6 +426,8 @@ They can kill impostor.\
 
 ## Jackal
 ### **Team: Serial killer**
+
+
 
 ---------------------------
 ## Team "town of roles" member
