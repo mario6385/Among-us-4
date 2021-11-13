@@ -1,5 +1,6 @@
 # Among us 4: new 18 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
+![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
 ![버전 2](https://user-images.githubusercontent.com/93028495/138583975-cfa29af4-afaa-417e-ae6e-afb38d48d194.png)
 this is version 2 of Among us 4(Among us 4: new 14 roles).
