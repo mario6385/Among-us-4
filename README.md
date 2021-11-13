@@ -61,6 +61,8 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 # version 1 roles
 ## Medic
 ![1 의사](https://user-images.githubusercontent.com/93028495/138575578-26ce10ec-8212-4623-a5d5-d14564e25109.png)
+![1 의사](https://user-images.githubusercontent.com/93028495/141615799-9c5042b3-dc45-4958-81eb-098f7ab15f96.png)
+
 ### **Team: Crewmate**
 The Medic is a Crewmate who can give 1 player a shield that will make them immortal until the Medic dies. A Shielded player cannot be Shifted into, Hacked or Killed by anyone, unless by suicide. They can also revive a dead body. If the Medic reports a dead body, they can get a report containing clues to the Killer's identity. A report can contain the name of the killer or the color type (Darker/Lighter).
 
@@ -79,6 +81,8 @@ The Medic is a Crewmate who can give 1 player a shield that will make them immor
 -----------------------
 ## Sheriff
 ![2 보안관](https://user-images.githubusercontent.com/93028495/138575590-d52a1008-48a9-45fa-bd47-26051c4ecf86.png)
+![2 보안관](https://user-images.githubusercontent.com/93028495/141616054-01666be2-e302-43cb-8763-6d7c8f1ee954.png)
+
 ### **Team: Crewmate**
 The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Crewmate or a Neutral player they can't kill, they instead die themselves.
 
@@ -99,6 +103,8 @@ The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Cr
 -----------------------
 ## Engineer
 ![3 기술자](https://user-images.githubusercontent.com/93028495/138575594-c98c2bf1-dfaf-4242-b218-ed2d305557dc.png)
+![3 기술자](https://user-images.githubusercontent.com/93028495/141616210-b75f4cb3-091c-4bc4-98c9-993ab8e0a660.png)
+
 ### **Team: Crewmate**
 The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in anywhere. They can use vents to get across the map easily.
 
@@ -112,6 +118,8 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 -----------------------
 ## Cat
 ![4 고양이](https://user-images.githubusercontent.com/93028495/138575599-584232b1-986d-48dd-abbe-35304bcfa8bb.png)
+![4 고양이](https://user-images.githubusercontent.com/93028495/141616673-47c85df7-7aa6-45c8-b536-a3d923f99572.png)
+
 **sunny6386's idea**
 ### **Team: Crewmate**
 The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner has targeted, Their protect cooldown decreases. They don't die.
@@ -128,6 +136,8 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 -----------------------
 ## Jester
 ![1 어릿광대](https://user-images.githubusercontent.com/93028495/138575605-ccefd29b-586f-4356-8c7e-bc560001c670.png)
+![1 어릿광대](https://user-images.githubusercontent.com/93028495/141616945-d9b1a0e0-197e-4525-b8c9-d26dfb86bfd0.png)
+
 ### **Team: Neutral evil**
 win condition: being ejected
 |Name|Description|Range|Default|
@@ -137,6 +147,7 @@ win condition: being ejected
 -----------------------
 ## Survivor
 ![2 생존자](https://user-images.githubusercontent.com/93028495/138575617-f006b825-292d-41d6-a2d3-5aa900ce7cb1.png)
+![2 생존자](https://user-images.githubusercontent.com/93028495/141617180-316421bd-a7d0-4fff-a9f7-6d6cb83c973e.png)
 ### **Team: Neutral benign**
 win condition: surviving the game\
 if survivor as long as survived, they will win with winner.
@@ -147,6 +158,8 @@ if survivor as long as survived, they will win with winner.
 -----------------------
 ## Janitor
 ![1 관리인](https://user-images.githubusercontent.com/93028495/138575625-175e4ae7-5e9f-4632-973f-914c68f07e1d.png)
+![1 관리인](https://user-images.githubusercontent.com/93028495/141618205-5116ed81-1c36-48ff-8ef0-e64319c89cce.png)
+
 ### **Team: Impostor**
 The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ability have a shared cooldown, meaning they have to choose which one they want to use.
 
@@ -158,6 +171,7 @@ The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ab
 -----------------------
 ## Morphling
 ![2 변장자](https://user-images.githubusercontent.com/93028495/138575860-6e7483f5-98c0-4e0a-825c-4164b0946bdd.png)
+![2 변장자](https://user-images.githubusercontent.com/93028495/141618338-bf8793b1-f2fe-4845-a86a-3b5280a63b35.png)
 **sunny6386's idea**
 ### **Team: Impostor**
 The Morphling is an Impostor who can Morph into another player. At the beginning of the game and after every meeting, they can choose someone to Sample. They can then Morph into that person at any time for a limited amount of time. To balance the role, they can't use vent while disguise.
@@ -172,6 +186,7 @@ The Morphling is an Impostor who can Morph into another player. At the beginning
 -----------------------
 ## Blackmailer
 ![3 협박자](https://user-images.githubusercontent.com/93028495/138575660-5b25ccdb-51cb-4428-af96-9703b064d57c.png)
+![3 협박자](https://user-images.githubusercontent.com/93028495/141618491-afb04414-c27b-4f00-98ea-b616c1ebc269.png)
 ### **Team: Impostor**
 The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. When a meeting begins the blackmailed player will get an alert that they are blackmailed and cannot access the chat to communicate with others.
 | Name | Description | Range | Default |
