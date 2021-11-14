@@ -1,4 +1,4 @@
-# Among us 4: new 18 roles
+# Among us 4: new 30 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
@@ -53,6 +53,8 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 - [Curser](#curser)
 - [Predator](#predator)
 - [Jackal](#jackal)
+
+**version 7 roles**<br/>
 
 [see "town of roles" member](#team-town-of-roles-member)
 
@@ -429,21 +431,31 @@ The Poisoner is a Witch who can poison any player. At meetings, a player will se
 ### **Team: Impostor**
 
 Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Curser |The percentage probability of the Curser appearing| 0%~100% |0% |
 
+-------------------------
 ## Predator
 **win condition: Surviving the game(but can't win with winner)** \
 |You must survive the game by fooling the Impostor(s) and killing everyone.|
 |----------|
 
-Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.**\
-Predator is known as impostor if they are ejected.\
-if they win with impostor, only impostor win.\
-They can kill impostor.\
+Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they kill sheriff, their kill cooldown will be deleted. if they kill jester, their kill cooldown will increase. if they kill jester, their kill cooldown will increase. if they kill other player, they will.\
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Predator | The percentage probability of the Predator appearing | 0%~100% | 0% |
+|Predator can assassinate| if it's true, Predator can kill other player to get effect. |True/False|False|
 
+-------------------------
 ## Jackal
 ### **Team: Serial killer**
-
-
+The Jackal is a Serial killer who can select another player to be their Sidekick. Creating a Sidekick removes all tasks of the Sidekick and adds them to the team Jackal. The Sidekick loses their current role. Jackal can only make their sidekick once per game. The Jackal can also promote Impostors to be their Sidekick. but, depending on the options the Impostor will either really turn into the Sidekick and leave the team Impostors or they will just look like the Sidekick to the Jackal and remain as they were.\
+Jackals sidekick from Sidekick can create a Sidekick
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Jackal | The percentage probability of the Jackal appearing | 0%~100% | 0% |
+|sidekick can sidekick other player|Whether sidekick can sidekick other player|True/Jackal die first|Jackal die first|
 
 ---------------------------
 ## Team "town of roles" member
@@ -460,9 +472,18 @@ people who plays the game with mario6385 together(Private members)
 - cheeze
 
 -----------------------------
+# version 7 roles
+
+- V.I.P
+- Amnesiac
+- Consort
+- Hex master
+
+-----------------------------
 ## references
 These roles are only in "offline among us":
 - cat
 - student president
 - crewstor
 - yandere
+- predator(smilar role can be played)
