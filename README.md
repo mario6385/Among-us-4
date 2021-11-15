@@ -474,10 +474,10 @@ people who plays the game with mario6385 together(Private members)
 -----------------------------
 # version 7 roles
 
-- V.I.P
-- Amnesiac
-- Consort
-- Hex master
+- V.I.P is crewmate known to crewmates and survivor. if they die, impostor win.
+- Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to.
+- Consort is a impostor who can erase role of player.
+- Hex master is a witch who can hex everyone to kill them.
 
 -----------------------------
 ## references
