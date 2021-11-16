@@ -67,7 +67,7 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 ![1 의사](https://user-images.githubusercontent.com/93028495/141615799-9c5042b3-dc45-4958-81eb-098f7ab15f96.png)
 
 ### **Team: Crewmate**
-The Medic is a Crewmate who can give 1 player a shield that will make them immortal until the Medic dies. A Shielded player cannot be Shifted into, Hacked or Killed by anyone, unless by suicide. They can also revive a dead body. If the Medic reports a dead body, they can get a report containing clues to the Killer's identity. A report can contain the name of the killer or the color type (Darker/Lighter).
+The Medic is a Crewmate who can give 1 player a shield that will make them immortal until the Medic dies. A Shielded player cannot be Shifted into, Hacked or Killed by anyone, unless by suicide. They can also revive a dead body. If the Medic reports a dead body, they can get a report containing clues to the Killer's identity.
 
 ### Game Options
 | Name | Description | Range | Default |
@@ -75,8 +75,6 @@ The Medic is a Crewmate who can give 1 player a shield that will make them immor
 | Medic | The percentage probability of the Medic appearing | 0%~100% | 0% |
 | Show Shielded Player | Who should be able to see who is Shielded | Self / Medic / Self + Medic / Everyone | Self |
 | Show Medic Reports | Whether the Medic gets information when reporting a body | True/False | True |
-| Time Where Medic Reports Will Have Name | If a body has been dead for shorter than this amount, the Medic's report will contain the killer's name | 5s~15s | 0s |
-| Time Where Medic Reports Will Have Color Type | If a body has been dead for shorter than this amount, the Medic's report will have the type of color | 10s~60s | 15s |
 | Who gets murder attempt indicator | Who will receive an indicator when someone tries to Shift into, Hack or Kill them | Medic / Shielded / Everyone / Nobody | Medic |
 | Shield breaks on murder attempt | Whether the Shield breaks when someone attempts to Shift into, Hack or Kill them | True/False | False |
 | Revive cooldown | The Cooldown of reviving | 5s~60s | 10s |
@@ -86,7 +84,7 @@ The Medic is a Crewmate who can give 1 player a shield that will make them immor
 ![2 보안관](https://user-images.githubusercontent.com/93028495/138575590-d52a1008-48a9-45fa-bd47-26051c4ecf86.png)
 ![2 보안관](https://user-images.githubusercontent.com/93028495/141616054-01666be2-e302-43cb-8763-6d7c8f1ee954.png)
 
-### **Team: Crewmate**
+### **Team: Crewmate(killing)**
 The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Crewmate or a Neutral player they can't kill, they instead die themselves.
 
 ### Game Options
@@ -108,7 +106,7 @@ The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Cr
 ![3 기술자](https://user-images.githubusercontent.com/93028495/138575594-c98c2bf1-dfaf-4242-b218-ed2d305557dc.png)
 ![3 기술자](https://user-images.githubusercontent.com/93028495/141616210-b75f4cb3-091c-4bc4-98c9-993ab8e0a660.png)
 
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in anywhere. They can use vents to get across the map easily.
 
 ### Game Options
@@ -124,7 +122,7 @@ The Engineer is a Crewmate who can fix sabotages easily, and fix sabotages in an
 ![4 고양이](https://user-images.githubusercontent.com/93028495/141616673-47c85df7-7aa6-45c8-b536-a3d923f99572.png)
 
 **sunny6386's idea**
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 The Cat is a Crewmate who can track the location of some people. They have a long protect Cooldown, but if They protect player who their owner has targeted, Their protect cooldown decreases. They don't die.
 
 ### Game Options
@@ -141,17 +139,18 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 ![1 어릿광대](https://user-images.githubusercontent.com/93028495/138575605-ccefd29b-586f-4356-8c7e-bc560001c670.png)
 ![1 어릿광대](https://user-images.githubusercontent.com/93028495/141616945-d9b1a0e0-197e-4525-b8c9-d26dfb86bfd0.png)
 
-### **Team: Neutral evil**
+### **Team: Neutral(evil)**
 win condition: being ejected
 |Name|Description|Range|Default|
 |---|---|---|---|
 |Chance|The percentage probability of the Jester appearing|0%-100%|0%|
+|Jester can fool "crewmate investigative"|Whether the Jester can fool "crewmate investigative"||
 
 -----------------------
 ## Survivor
 ![2 생존자](https://user-images.githubusercontent.com/93028495/138575617-f006b825-292d-41d6-a2d3-5aa900ce7cb1.png)
 ![2 생존자](https://user-images.githubusercontent.com/93028495/141617180-316421bd-a7d0-4fff-a9f7-6d6cb83c973e.png)
-### **Team: Neutral benign**
+### **Team: Neutral(benign)**
 win condition: surviving the game\
 if survivor as long as survived, they will win with winner.
 |Name|Description|Range|Default|
@@ -163,7 +162,7 @@ if survivor as long as survived, they will win with winner.
 ![1 관리인](https://user-images.githubusercontent.com/93028495/138575625-175e4ae7-5e9f-4632-973f-914c68f07e1d.png)
 ![1 관리인](https://user-images.githubusercontent.com/93028495/141618205-5116ed81-1c36-48ff-8ef0-e64319c89cce.png)
 
-### **Team: Impostor**
+### **Team: Impostor(deception)**
 The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ability have a shared cooldown, meaning they have to choose which one they want to use.
 
 ### Game Options
@@ -176,7 +175,7 @@ The Janitor is an Impostor who can clean up bodies. Both their Kill and Clean ab
 ![2 변장자](https://user-images.githubusercontent.com/93028495/138575860-6e7483f5-98c0-4e0a-825c-4164b0946bdd.png)
 ![2 변장자](https://user-images.githubusercontent.com/93028495/141618338-bf8793b1-f2fe-4845-a86a-3b5280a63b35.png)
 **sunny6386's idea**
-### **Team: Impostor**
+### **Team: Impostor(deception)**
 The Morphling is an Impostor who can Morph into another player. At the beginning of the game and after every meeting, they can choose someone to Sample. They can then Morph into that person at any time for a limited amount of time. To balance the role, they can't use vent while disguise.
 
 ### Game Options
@@ -190,7 +189,7 @@ The Morphling is an Impostor who can Morph into another player. At the beginning
 ## Blackmailer
 ![3 협박자](https://user-images.githubusercontent.com/93028495/138575660-5b25ccdb-51cb-4428-af96-9703b064d57c.png)
 ![3 협박자](https://user-images.githubusercontent.com/93028495/141618491-afb04414-c27b-4f00-98ea-b616c1ebc269.png)
-### **Team: Impostor**
+### **Team: Impostor(support)**
 The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. When a meeting begins the blackmailed player will get an alert that they are blackmailed and cannot access the chat to communicate with others.
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -204,7 +203,7 @@ The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. Wh
 ## Executioner
 ![3 사형 집행인](https://user-images.githubusercontent.com/93028495/138578527-ad85a2ab-2911-462c-bdec-092327779bb5.png)
 ![3 사형 집행인](https://user-images.githubusercontent.com/93028495/141982243-2d447b38-8d40-42c0-bdab-44d8fc94d530.png)
-### **Team: Neutral evil**
+### **Team: Neutral(evil)**
 win condition: getting their target ejected
 ### Game Options
 | Name | Description | Type | Default |
@@ -286,7 +285,7 @@ The Guardian is a crewmate who can protect any player they wish for 1 round. In 
 -----------------------
 ## Swapper
 ![6 운명술사](https://user-images.githubusercontent.com/93028495/138583790-de234251-8d24-4dd1-a9bf-f6e25db318bd.png)
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 The Swapper is a Crewmate who activates in meetings. The Swapper can swap votes of 2 players and change who potentially gets voted out. However, if none of the Swapper's targets gets voted out, then the 2 players will switch bodies for the next round, changing how they look and their name. Once the next meeting starts, they will change place.
 | Name | Description | range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -295,7 +294,7 @@ The Swapper is a Crewmate who activates in meetings. The Swapper can swap votes 
 -----------------------
 ## Mayor
 ![7 시장](https://user-images.githubusercontent.com/93028495/138583858-d523a724-e971-4a14-9dfd-9f094833fc24.png)
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 The Mayor is a Crewmate who can vote multiple times.\
 The Mayor has a Vote Bank, which is the number of times they can vote.\
 They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
@@ -309,7 +308,7 @@ As long as not everyone has voted, the Mayor can use as many votes from their Vo
 ------------------------
 ## Dictator
 ![8 독재자](https://user-images.githubusercontent.com/93028495/138583865-e855d924-5118-4aa6-be64-ae61caf8ea54.png)
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 The Dictator's opportunities make dictator able to kill 1 player at one meetings.(But dictator can't use their opportunities in two day in a row.)
 settings
 | Name | Description | Range | Default |
@@ -334,7 +333,7 @@ settings
 
 -------------------------
 ## Spirit
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 ![10 스피릿](https://user-images.githubusercontent.com/93028495/138586230-dea19397-9774-4bc0-9d12-cdab5fda7c4f.png)
 The spirit can't be voted out until only 3 player survive in the game. they can't be killed by sheriff until only 3 player survive in the game.
 settings
@@ -344,7 +343,7 @@ settings
 
 -------------------------
 ## Anti tasker
-### **Team: Impostor**
+### **Team: Impostor(support)**
 ![5 속박자](https://user-images.githubusercontent.com/93028495/138586296-033bad89-c53b-44f8-9034-f87f01218d69.png)
 The Anti tasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.\
 setting
@@ -357,7 +356,7 @@ setting
 
 -------------------------
 ## Crewstor
-### **Team: Impostor**
+### **Team: Impostor(support)**
 ![6 크루스터](https://user-images.githubusercontent.com/93028495/138586300-6c8b3831-5b8a-4366-9a72-8eb64d576837.png)
 The crewstor is an impostor who can do tasks for impostor's victory.
 | Name | Description | Range | Default |
@@ -373,7 +372,7 @@ settings
 | Witch is Impostor | Whether witch is Impostor | True/false | false |
 
 ## Investigator
-### **Team: Crewmate**
+### **Team: Crewmate(investigative)**
 ![12 조사관](https://user-images.githubusercontent.com/93028495/138590702-5d71e84d-caaf-47e7-bea2-a3646214758b.png)
 The Investigator is a Crewmate who finishes their tasks so as to be able to investigate the role of any player. However, if the player is Neutral or Impostor, they will also see who the Investigator is. If the Investigator investigates an Angel, and their target is an Impostor, the Angel will also show as an Impostor. Likewise if they are a crewmate, the Angel will also show as a crewmate. The Investigator also gets false readings from Neutral roles. If they investigate the Executioners target, it will display the same reading as an executioner. If they investigate a doused player, it will give the same reading as an Arsonist, and if they investigate and infected player, it will give the same reading as the Plaguebearer.\
 settings
@@ -384,7 +383,7 @@ settings
 
 ------------------------
 ## Mentalist
-### **Team: Crewmate**
+### **Team: Crewmate(investigative)**
 ![11 심리학자](https://user-images.githubusercontent.com/93028495/138590689-986e036e-0ba7-408e-b949-acdd87610b26.png)
 The mentalist is a crewmate who can observe 2 players so as to investigate whether they are on the same team.\
 settings
@@ -396,7 +395,7 @@ settings
 ------------------------
 ## Student president
 **sunny6386's idea**
-### **Team: Crewmate**
+### **Team: Crewmate(killing)**
 ![13 학생회장](https://user-images.githubusercontent.com/93028495/140517016-e72821ee-c1a7-4a4b-800c-ae62944601bb.png)
 Other name:Studesident\
 The Student president is a Crewmate who can kill impostor who killed other player if they saw. They don't die. but they can be voted out
@@ -434,7 +433,7 @@ The Poisoner is a Witch who can poison any player. At meetings, a player will se
 # version 6 roles
 
 ## Curser
-### **Team: Impostor**
+### **Team: Impostor(support)**
 
 Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
 | Name | Description | Range | Default |
