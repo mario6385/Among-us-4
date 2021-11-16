@@ -3,6 +3,7 @@
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
 ![버전 2](https://user-images.githubusercontent.com/93028495/138583975-cfa29af4-afaa-417e-ae6e-afb38d48d194.png)
+![버전 2](https://user-images.githubusercontent.com/93028495/141982114-ff889889-8c22-431f-936d-22075c7b70b0.png)
 this is version 2 of Among us 4(Among us 4: new 14 roles).
 ![버전 3](https://user-images.githubusercontent.com/93028495/138583983-ad5fcc26-4a70-4599-9e65-dbd4e3e28524.png)
 this is version 3 of Among us 4(Among us 4: new 18 roles).
@@ -202,6 +203,7 @@ The Blackmailer is an Impostor who can blackmail 1~3 players in only 1 round. Wh
 # version 2 roles
 ## Executioner
 ![3 사형 집행인](https://user-images.githubusercontent.com/93028495/138578527-ad85a2ab-2911-462c-bdec-092327779bb5.png)
+![3 사형 집행인](https://user-images.githubusercontent.com/93028495/141982243-2d447b38-8d40-42c0-bdab-44d8fc94d530.png)
 ### **Team: Neutral evil**
 win condition: getting their target ejected
 ### Game Options
@@ -213,6 +215,7 @@ win condition: getting their target ejected
 -----------------------
 ## Yandere
 ![4 집착증자](https://user-images.githubusercontent.com/93028495/138578534-d98982cc-c01e-40b6-af8c-277fa761f4a0.png)
+![4 집착증자](https://user-images.githubusercontent.com/93028495/141982306-51507a6f-4b1d-4f54-afe1-87fe18117752.png)
 **sunny6386's idea**
 ### **Team: Impostor**
 Yandere is an Impostor who can make 1 player their member or kill. Yandere's member is Yanderate. 
@@ -224,6 +227,7 @@ Yandere is an Impostor who can make 1 player their member or kill. Yandere's mem
 -----------------------
 ## Serial killer
 ![1 연쇄 살인마](https://user-images.githubusercontent.com/93028495/138580964-bd2fe38f-70b3-4794-a626-8f61e6031d24.png)
+![1 연쇄 살인마](https://user-images.githubusercontent.com/93028495/141982340-3a4614be-5c3a-45d8-96c1-25ecf38d63fd.png)
 ### **Team: Serial killer**
 win condition: killing all crewmates and impostors
 | Name | Description | Type | Default |
@@ -235,6 +239,7 @@ win condition: killing all crewmates and impostors
 -----------------------
 ## Arsonist
 ![2 방화범](https://user-images.githubusercontent.com/93028495/138580970-2852d4b9-7775-4667-8e1a-357fc8bea9c9.png)
+![2 방화범](https://user-images.githubusercontent.com/93028495/141982356-1ea4a7de-1139-4e46-9e23-047d1dedb892.png)
 ### **Team: Serial killer**
 The Arsonist is a Serial killer who can douse other players.\
 Once they have doused every player remaining, they can Ignite everyone at once.\
@@ -249,6 +254,7 @@ Upon Igniting every player, they win the game.
 -----------------------
 ## Glitch
 ![3 글리치](https://user-images.githubusercontent.com/93028495/138583305-3e496e53-9acb-42b6-b06f-9fe13098eb11.png)
+![3 글리치](https://user-images.githubusercontent.com/93028495/141982376-42aa8c6f-c9b4-4310-9f40-77614c6cf6c6.png)
 ### **Team: Serial killer**
 The Glitch is a Serial killer who can Hack players. hacked player can't report bodies and do tasks.\
 Hacking prevents the hacked player from doing anything but walk around the map.\
@@ -340,7 +346,7 @@ settings
 ## Anti tasker
 ### **Team: Impostor**
 ![5 속박자](https://user-images.githubusercontent.com/93028495/138586296-033bad89-c53b-44f8-9034-f87f01218d69.png)
-The Antitasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.\
+The Anti tasker is an Impostor who once per round, they can block a player from doing their tasks. A taskblocked player will be unable to complete their tasks or fix any sabotage, until a meeting is called.\
 setting
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
