@@ -319,7 +319,7 @@ settings
 -------------------------
 # version 4 roles
 ## Phoenix
-### **Team: Crewmate**
+### **Team: Crewmate(support)**
 ![9 불사신](https://user-images.githubusercontent.com/93028495/138585431-9a9bf897-4a29-461e-9861-610398d38aa9.png)
 the phoenix is a Crewmate who can revive so as to be able to bring back 1 ghost per 1 round or kill 1 player(but if it's impostor, they can kill again) or reveal their name for 5 seconds. they can be cleansed.
 settings
@@ -479,16 +479,45 @@ people who plays the game with mario6385 together(Private members)
 -----------------------------
 # version 7 roles
 
-- V.I.P is crewmate known to crewmates and survivor. if they die, impostor win.
-- Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to.
-- Consort is a impostor who can erase role of player.
-- Hex master is a witch who can hex everyone to kill them.
+## V.I.P
+### **Team: Crewmate**
+V.I.P is crewmate known to crewmates and survivor. if they die, impostor win.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| V.I.P | The percentage probability of the V.I.P appearing | 0%~100% | 0% |
+| Neutral player sees V.I.P | Whether the  Neutral player sees V.I.P | true/false | false |
+
+-----------------------------
+## Amnesiac
+### **Team: Neutral(Benign)**
+Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. but if they try to become to Blackmailer/Anti tasker/Crewstor, they become to regular impostor. their win condition is same as role that they shifted to.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Amnesiac | The percentage probability of the Amnesiac appearing | 0%~100% | 0% |
+
+-----------------------------
+## Consort
+### **Team: Impostor(support)**
+Consort is an Impostor who can roleblock player. a roleblocked crewmate will be regular crewmate.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Consort | The percentage probability of the Consort appearing | 0%~100% | 0% |
+|Consort can roleblock Impostor|Whether Consort can roleblock Impostor|true/false|false|
+
+## Hex master
+### **Team: Coven**
+Hex master is a Witch who can hex everyone and kill them all.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Hex master | The percentage probability of the Hex master appearing | 0%~100% | 0% |
+|Hex cooldown|The cooldown of hexing a player|10s~30s|10s|
 
 -----------------------------
 ## references
-These roles are only in "offline among us":
+These roles are not in "online among us":
 - cat
 - student president
 - crewstor
 - yandere
 - predator(smilar role can be played)
+- amnesiac(smilar role can be played)
