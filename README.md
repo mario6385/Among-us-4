@@ -471,10 +471,32 @@ Jackals sidekick from Sidekick can create a Sidekick
 
 -----------------------------
 # version 7 roles
+ 
+## V.I.P
+### **Team: Crewmate(Support)**
 
-- V.I.P is crewmate known to crewmates and survivor. if they die, impostor win.
-- Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to.
-- Consort is a impostor who can erase role of player.
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| V.I.P | The percentage probability of the V.I.P appearing | 0%~100% | 0% |
+|Neutral Players see V.I.P|Whether the Neutral Players see V.I.P|||
+
+The V.I.P is an important crewmate role which needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. The goal of the crewmates is to win the game whilst keeping the V.I.P alive.
+
+-----------------------------
+## Amnesiac
+### **Team: Neutral(Benign)**
+
+Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they must survive.
+
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Amnesiac | The percentage probability of the Amnesiac appearing | 0%~100% | 0% |
+
+-----------------------------
+## Consort
+Consort is a impostor who can roleblock player.
+
+--------------------------------
 - Hex master is a witch who can hex everyone to kill them.
 ---------------------------
 
