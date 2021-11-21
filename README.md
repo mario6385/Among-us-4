@@ -524,39 +524,39 @@ There is 7 or 9 player in this mod. only "town of roles" member enter This serve
 
 ## season 1
 roles
--Medic
--Sheriff
--Engineer
--Cat(appears when there is 9 players)
--Jester
--Survivor
--Janitor
--Blackmailer
--Morphling(appears when there is 9 players)
+- Medic
+- Sheriff
+- Engineer
+- Cat(appears when there is 9 players)
+- Jester
+-  Survivor
+- Janitor
+- Blackmailer
+- Morphling(appears when there is 9 players)
 
 ## season 2
 roles
--Guardian
--Swapper
--Mayor
--Dictator
--Yandere
--Excutioner
--Serial killer
--Arsonist(appears when there is 9 players)
--Glitch(appears when there is 9 players)
+- Guardian
+- Swapper
+- Mayor
+- Dictator
+- Yandere
+- Excutioner
+- Serial killer
+- Arsonist(appears when there is 9 players)
+- Glitch(appears when there is 9 players)
 
 ## season 3
 roles
--Phoenix
--Spirit
--Investigator
--Mentalist
--Student president
--Crewstor
--Anti tasker
--Witch(appears when there is 9 players)
--Poisoner(appears when there is 9 players)
+- Phoenix
+- Spirit
+- Investigator
+- Mentalist
+- Student president
+- Crewstor
+- Anti tasker
+- Witch(appears when there is 9 players)
+- Poisoner(appears when there is 9 players)
 
 ## season 4
 coming soon
