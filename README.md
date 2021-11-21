@@ -1,4 +1,4 @@
-# Among us 4: new 30 roles
+# Among us 4: new 34 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
@@ -472,7 +472,9 @@ Jackals sidekick from Sidekick can create a Sidekick
 
 -----------------------------
 # version 7 roles
- 
+
+Undertaker and Underdog might be added in this version.
+
 ## V.I.P
 ### **Team: Crewmate(Support)**
 
@@ -495,10 +497,24 @@ Amnesiac is a neutral player who cannot do anything, but they can shift their ro
 
 -----------------------------
 ## Consort
-Consort is a impostor who can roleblock player.
+### **Team: Impostor(Surpport)**
+Consort is a impostor who can roleblock player. roleblocked will be unable to use their ablity. but Arsonist/Coven member/Neutral player can't be roleblocked.
+
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Consort | The percentage probability of the Consort appearing | 0%~100% | 0% |
+|Consort can roleblock Impostor|Whether Consort can roleblock Impostor|True/False|False|
 
 --------------------------------
-- Hex master is a witch who can hex everyone to kill them.
+## Hex master
+### **Team: Coven**
+Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.
+
+| Name | Description | Range | Default |
+|----------|:-------------:|:------:|:------:|
+| Hex master | The percentage probability of the Hex master appearing | 0%~100% | 0% |
+|Hex cooldown|The cooldown of Hexing player|10s~60s|30s|
+
 ---------------------------
 
 ## Team "town of roles" member
