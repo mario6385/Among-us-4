@@ -427,6 +427,7 @@ settings
 ![2 독살자](https://user-images.githubusercontent.com/93028495/140517225-b11a47b8-202e-4a23-92e0-ba49d399c2b4.png)
 ### **Team: Coven**
 The Poisoner is a Witch who can poison any player. At meetings, a player will see they're poisoned (but see it differently compared to being hexed) and will only survive that meeting, being able to contribute to votes. When the meeting ends, all poisoned players will die.\
+settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Poisoner |The percentage probability of the Poisoner appearing| 0%~100% |0% |
@@ -440,6 +441,7 @@ The Poisoner is a Witch who can poison any player. At meetings, a player will se
 ### **Team: Impostor(support)**
 
 Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
+settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Curser |The percentage probability of the Curser appearing| 0%~100% |0% |
@@ -453,7 +455,8 @@ Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round.
 |You must survive the game by fooling the Impostor(s) and killing everyone.|
 |----------|
 
-Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they kill sheriff, their kill cooldown will be deleted. if they kill jester, their kill cooldown will increase. if they kill jester, their kill cooldown will increase. if they kill other player, they will.\
+Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
+settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Predator | The percentage probability of the Predator appearing | 0%~100% | 0% |
@@ -464,7 +467,7 @@ Predator only appears When there are 3 impostor in the game or that role appears
 ![4 늑대](https://user-images.githubusercontent.com/93028495/142183445-42e47675-7b1f-4ec6-9d4c-81ce253681df.png)
 ### **Team: Serial killer**
 The Jackal is a Serial killer who can select another player to be their Sidekick. Creating a Sidekick removes all tasks of the Sidekick and adds them to the team Jackal. The Sidekick loses their current role. Jackal can only make their sidekick once per game. The Jackal can also promote Impostors to be their Sidekick. but, depending on the options the Impostor will either really turn into the Sidekick and leave the team Impostors or they will just look like the Sidekick to the Jackal and remain as they were.\
-Jackals sidekick from Sidekick can create a Sidekick
+Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Jackal | The percentage probability of the Jackal appearing | 0%~100% | 0% |
@@ -477,7 +480,7 @@ Undertaker and Underdog might be added in this version.
 
 ## V.I.P
 ### **Team: Crewmate(Support)**
-
+Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | V.I.P | The percentage probability of the V.I.P appearing | 0%~100% | 0% |
@@ -490,7 +493,7 @@ The V.I.P is an important crewmate role which needs to be kept alive in order fo
 ### **Team: Neutral(Benign)**
 
 Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they must survive.
-
+Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Amnesiac | The percentage probability of the Amnesiac appearing | 0%~100% | 0% |
@@ -499,7 +502,7 @@ Amnesiac is a neutral player who cannot do anything, but they can shift their ro
 ## Consort
 ### **Team: Impostor(Surpport)**
 Consort is a impostor who can roleblock player. roleblocked will be unable to use their ablity. but Arsonist/Coven member/Neutral player can't be roleblocked.
-
+Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Consort | The percentage probability of the Consort appearing | 0%~100% | 0% |
@@ -509,14 +512,56 @@ Consort is a impostor who can roleblock player. roleblocked will be unable to us
 ## Hex master
 ### **Team: Coven**
 Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.
-
+Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Hex master | The percentage probability of the Hex master appearing | 0%~100% | 0% |
 |Hex cooldown|The cooldown of Hexing player|10s~60s|30s|
 
 ---------------------------
+# All is hero server
+There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
 
+## season 1
+roles
+-Medic
+-Sheriff
+-Engineer
+-Cat(appears when there is 9 players)
+-Jester
+-Survivor
+-Janitor
+-Blackmailer
+-Morphling(appears when there is 9 players)
+
+## season 2
+roles
+-Guardian
+-Swapper
+-Mayor
+-Dictator
+-Yandere
+-Excutioner
+-Serial killer
+-Arsonist(appears when there is 9 players)
+-Glitch(appears when there is 9 players)
+
+## season 3
+roles
+-Phoenix
+-Spirit
+-Investigator
+-Mentalist
+-Student president
+-Crewstor
+-Anti tasker
+-Witch(appears when there is 9 players)
+-Poisoner(appears when there is 9 players)
+
+## season 4
+coming soon
+
+-----------------------------
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
