@@ -1,4 +1,4 @@
-# Among us 4: new 34 roles
+# Among us 4: new 36 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
@@ -597,3 +597,4 @@ These roles are only in "offline among us":
 - crewstor
 - yandere
 - predator(smilar role can be played)
+- amnesiac(smilar role can be played)
