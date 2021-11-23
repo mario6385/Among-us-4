@@ -476,8 +476,6 @@ Settings
 -----------------------------
 # version 7 roles
 
-Undertaker and Underdog might be added in this version.
-
 ## V.I.P
 ### **Team: Crewmate(Support)**
 Settings
@@ -519,6 +517,21 @@ Settings
 |Hex cooldown|The cooldown of Hexing player|10s~60s|30s|
 
 ---------------------------
+## Undertaker
+### **Team: Impostor(confusing)**
+Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.
+
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| undertaker | The percentage probability of the undertaker appearing | 0%~100% | 0% |
+|Drag cooldown|The cooldown of dragging the dead body|10s-60s|25s|
+
+----------------------------
+## Underdog
+### **Team: Impostor(confusing)**
+The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have their kill cooldown halfed.
+
+-------------------------------
 # All is hero server
 There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
 
