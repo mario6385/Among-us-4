@@ -16,6 +16,8 @@ this is version 4 of Among us 4(Among us 4: new 22 roles).
 this is version 5 of Among us 4(Among us 4: new 27 roles).
 ![버전 6](https://user-images.githubusercontent.com/93028495/141065541-fe7e4b10-e121-450b-841e-924054fafe00.png)
 this is version 6 of Among us 4(Among us 4: new 30 roles).\
+[no image]
+this is version 7 of Among us 4(Among us 4: new 36 roles).\
 **version 1 roles**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
@@ -59,6 +61,12 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 - [Jackal](#jackal)
 
 **version 7 roles**<br/>
+- [V.I.P](#vip)
+- [Amnesiac](#amnesiac)
+- [Consort](#consort)
+- [Hex master](#hex-master)
+- [Undertaker](#undertaker)
+- [Underdog](#underdog)
 
 [see "town of roles" member](#team-town-of-roles-member)
 
