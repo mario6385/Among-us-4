@@ -486,13 +486,12 @@ Settings
 
 ## V.I.P
 ### **Team: Crewmate(Support)**
+The V.I.P is an important crewmate who needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. The goal of the crewmates is to win the game whilst keeping the V.I.P alive.
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | V.I.P | The percentage probability of the V.I.P appearing | 0%~100% | 0% |
-|Neutral Players see V.I.P|Whether the Neutral Players see V.I.P|||
-
-The V.I.P is an important crewmate role which needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. The goal of the crewmates is to win the game whilst keeping the V.I.P alive.
+|Neutral Players see V.I.P|Whether the Neutral Players see V.I.P|True/false|True|
 
 -----------------------------
 ## Amnesiac
@@ -532,12 +531,16 @@ Undertaker is an Impostor who can drag and drop bodies. But they can drag and dr
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | undertaker | The percentage probability of the undertaker appearing | 0%~100% | 0% |
-|Drag cooldown|The cooldown of dragging the dead body|10s-60s|25s|
+|Drag cooldown|The cooldown of dragging the dead body|10s-60s|10s|
 
 ----------------------------
 ## Underdog
 ### **Team: Impostor(confusing)**
-The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have their kill cooldown halfed.
+The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have halfed kill cooldown.
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| underdog | The percentage probability of the underdog appearing | 0%~100% | 0% |
+|underdog kill cooldown|The cooldown of underdog's kill cooldown|15s-60s|15s|
 
 -------------------------------
 # All is hero server
