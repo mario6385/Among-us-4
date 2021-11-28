@@ -570,6 +570,10 @@ settings
 -----------------------------
 ## Plague Bearer
 ###**Team: Serial killer(support)**
+The Plaguebearer is a Serial killer who can infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown.
+settings
+|---------|:-----------:|:----------:|:------------:|
+| Plague Bearer | The percentage probability of the  Plague Bearer appearing | 0%~100% | 0% |
 
 ------------------------------
 ## Mass murderer
