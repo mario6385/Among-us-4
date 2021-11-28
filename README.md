@@ -142,7 +142,7 @@ The Cat is a Crewmate who can track the location of some people. They have a lon
 | Cat | The percentage probability of the Cat appearing | 0%~100% | 0% |
 | Owner | The percentage probability of the Owner appearing | 0%~100% | 0% |
 | Cat protect cooldown decrease by: | - | 5s~30s | 10s |
-| How many player can be tracked by cat | The number of player cats can track | 1~5 players | 2 players |
+| track amount | The number of player that the cat can track | 1~5 players | 2 players |
 | Cat count | The number of Cats | 1~2 players | 1 player |
 
 -----------------------
@@ -238,7 +238,7 @@ Yandere is an Impostor who can make 1 player their member or kill. Yandere's mem
 ## Serial killer
 ![1 연쇄 살인마](https://user-images.githubusercontent.com/93028495/138580964-bd2fe38f-70b3-4794-a626-8f61e6031d24.png)
 ![1 연쇄 살인마](https://user-images.githubusercontent.com/93028495/141982340-3a4614be-5c3a-45d8-96c1-25ecf38d63fd.png)
-### **Team: Serial killer**
+### **Team: Serial killer(killing)**
 win condition: killing all crewmates and impostors
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
@@ -250,7 +250,7 @@ win condition: killing all crewmates and impostors
 ## Arsonist
 ![2 방화범](https://user-images.githubusercontent.com/93028495/138580970-2852d4b9-7775-4667-8e1a-357fc8bea9c9.png)
 ![2 방화범](https://user-images.githubusercontent.com/93028495/141982356-1ea4a7de-1139-4e46-9e23-047d1dedb892.png)
-### **Team: Serial killer**
+### **Team: Serial killer(killing)**
 The Arsonist is a Serial killer who can douse other players.\
 Once they have doused every player remaining, they can Ignite everyone at once.\
 Upon Igniting every player, they win the game.
@@ -265,7 +265,7 @@ Upon Igniting every player, they win the game.
 ## Glitch
 ![3 글리치](https://user-images.githubusercontent.com/93028495/138583305-3e496e53-9acb-42b6-b06f-9fe13098eb11.png)
 ![3 글리치](https://user-images.githubusercontent.com/93028495/141982376-42aa8c6f-c9b4-4310-9f40-77614c6cf6c6.png)
-### **Team: Serial killer**
+### **Team: Serial killer(support)**
 The Glitch is a Serial killer who can Hack players. hacked player can't report bodies and do tasks. Hacking prevents the hacked player from doing anything but walk around the map. The Glitch can Mimic someone, which results in them looking exactly like the other player.
 ### Game Options
 | Name | Description | Type | Default |
@@ -540,9 +540,36 @@ The Underdog is an Impostor with a prolonged kill cooldown. When they are the on
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | underdog | The percentage probability of the underdog appearing | 0%~100% | 0% |
-|underdog kill cooldown|The cooldown of underdog's kill cooldown|15s-60s|15s|
+|underdog first kill cooldown|The cooldown of first underdog's kill cooldown|15s-60s|15s|
 
 -------------------------------
+# version 8 roles
+
+## Seer
+### **Team: Crewmate(investigative)**
+The Seer is a Crewmate who can reveal the roles of other players without doing no tasks. Based on settings, the Seer can find out whether a role is Good or Evil.\
+settings
+|---------|:-----------:|:----------:|:------------:|
+| Seer | The percentage probability of the Seer appearing | 0%~100% | 0% |
+|reveal cooldown|The Cooldown of revealing the role of player|10s-60s|10s|
+|jester is revealed as impostor|Whether the jester is revealed as impostor|true/false|true|
+
+------------------------------
+## Medium
+###**Team: Crewmate(investigative)**
+The medium is a Crewate who can get hint for finding out impostor. ghost will say their killer's name and one more player(explaining medium).
+settings
+|---------|:-----------:|:----------:|:------------:|
+| Medium | The percentage probability of the Medium appearing | 0%~100% | 0% |
+
+-----------------------------
+## Plague Bearer
+###**Team: Serial killer(support)**
+
+------------------------------
+## Mass murderer
+###**Team: Serial killer(killing)**
+
 # All is hero server
 There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
 
@@ -553,7 +580,7 @@ roles
 - Engineer
 - Cat(appears when there is 9 players)
 - Jester
--  Survivor
+- Survivor
 - Janitor
 - Blackmailer
 - Morphling(appears when there is 9 players)
