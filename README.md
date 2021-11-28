@@ -554,6 +554,7 @@ The Underdog is an Impostor with a prolonged kill cooldown. When they are the on
 ### **Team: Crewmate(investigative)**
 The Seer is a Crewmate who can reveal the roles of other players without doing no tasks. Based on settings, the Seer can find out whether a role is Good or Evil.\
 settings
+|Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | Seer | The percentage probability of the Seer appearing | 0%~100% | 0% |
 |reveal cooldown|The Cooldown of revealing the role of player|10s-60s|10s|
@@ -564,6 +565,7 @@ settings
 ###**Team: Crewmate(investigative)**
 The medium is a Crewate who can get hint for finding out impostor. ghost will say their killer's name and one more player(explaining medium).
 settings
+|Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | Medium | The percentage probability of the Medium appearing | 0%~100% | 0% |
 
@@ -572,6 +574,7 @@ settings
 ###**Team: Serial killer(support)**
 The Plaguebearer is a Serial killer who can infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown.
 settings
+|Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | Plague Bearer | The percentage probability of the  Plague Bearer appearing | 0%~100% | 0% |
 
