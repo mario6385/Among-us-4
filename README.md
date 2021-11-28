@@ -485,16 +485,18 @@ Settings
 # version 7 roles
 
 ## V.I.P
+![14 귀빈](https://user-images.githubusercontent.com/93028495/143764777-883e6b2b-b65e-48a5-bbd3-c4807af98c39.png)
 ### **Team: Crewmate(Support)**
 The V.I.P is an important crewmate who needs to be kept alive in order for crewmates to win. If the V.I.P ever dies, the Impostors win, and everyone else loses. The goal of the crewmates is to win the game whilst keeping the V.I.P alive.
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | V.I.P | The percentage probability of the V.I.P appearing | 0%~100% | 0% |
-|Neutral Players see V.I.P|Whether the Neutral Players see V.I.P|True/false|True|
+|Neutral Players see V.I.P|Whether the Neutral Players see V.I.P|True/false|false|
 
 -----------------------------
 ## Amnesiac
+![4 기억 상실자](https://user-images.githubusercontent.com/93028495/143764794-c8ff2514-a279-466c-8fee-a465c4cd809f.png)
 ### **Team: Neutral(Benign)**
 
 Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they must survive.
@@ -505,7 +507,9 @@ Settings
 
 -----------------------------
 ## Consort
+![8 마담](https://user-images.githubusercontent.com/93028495/143764812-896868b5-994d-4c77-b569-692bb3896686.png)
 ### **Team: Impostor(Surpport)**
+
 Consort is a impostor who can roleblock player. roleblocked will be unable to use their ablity. but Arsonist/Coven member/Neutral player can't be roleblocked.
 Settings
 | Name | Description | Range | Default |
@@ -515,6 +519,7 @@ Settings
 
 --------------------------------
 ## Hex master
+![3 주술사](https://user-images.githubusercontent.com/93028495/143764875-9492f8b7-6ed8-4877-b7b4-e12ff703d2f1.png)
 ### **Team: Coven**
 Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.
 Settings
@@ -525,9 +530,9 @@ Settings
 
 ---------------------------
 ## Undertaker
-### **Team: Impostor(confusing)**
+### **Team: Impostor(deception)**
 Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.
-
+Settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | undertaker | The percentage probability of the undertaker appearing | 0%~100% | 0% |
@@ -535,7 +540,7 @@ Undertaker is an Impostor who can drag and drop bodies. But they can drag and dr
 
 ----------------------------
 ## Underdog
-### **Team: Impostor(confusing)**
+### **Team: Impostor(support)**
 The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have halfed kill cooldown.
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
