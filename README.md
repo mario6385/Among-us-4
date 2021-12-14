@@ -411,7 +411,7 @@ settings
 ![13 학생회장](https://user-images.githubusercontent.com/93028495/140517016-e72821ee-c1a7-4a4b-800c-ae62944601bb.png)
 ### **Team: Crewmate(killing)**
 Other name:Studesident\
-The Student president is a Crewmate who can kill impostor who killed other player if they saw. They don't die. but they can be voted out
+The Student president is a Crewmate who can kill impostor who killed other player if they saw. They don't die. but they can be voted out. they will be my sister.
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Student president | The percentage probability of the Student president appearing | 0%~100% | 0% |
@@ -448,7 +448,7 @@ settings
 ![7 저주자](https://user-images.githubusercontent.com/93028495/142183281-8249325b-4914-491e-b526-8a38b0a4d3b7.png)
 ### **Team: Impostor(support)**
 
-Curser is an Impostor who can kill 2 players in their kill cooldown per 1 round. then, their kill cooldown will be doubled.
+Curser is an Impostor who can can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -463,7 +463,7 @@ settings
 |You must survive the game by fooling the Impostor(s) and killing everyone.|
 |----------|
 
-Predator only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
+Predator is a role that only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -499,7 +499,7 @@ Settings
 ![4 기억 상실자](https://user-images.githubusercontent.com/93028495/143764794-c8ff2514-a279-466c-8fee-a465c4cd809f.png)
 ### **Team: Neutral(Benign)**
 
-Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they must survive.
+Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they can win by surviving the game.
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -562,7 +562,7 @@ settings
 
 ------------------------------
 ## Medium
-###**Team: Crewmate(investigative)**
+### **Team: Crewmate(investigative)**
 The medium is a Crewate who can get hint for finding out impostor. ghost will say their killer's name and one more player(explaining medium).
 settings
 |Name|Description|Range|Default|
@@ -572,15 +572,17 @@ settings
 -----------------------------
 ## Plague Bearer
 ###**Team: Serial killer(support)**
-The Plaguebearer is a Serial killer who can infect other players. Each round, the Plaguebearer can infect as many alive people they have infected previously, starting off with 1 Infect in the first round. If an infected player dies, the Plaguebearer will get 1 less opportunity to infect a player. Once everyone in the game has been infected, the Plaguebearer becomes the Pestillence, the Horseman of the Apocalypse and is able to kill players with a 3 second cooldown.
+The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected person. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic hoseman, and kill the player with a 3-second waiting cooldown.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | Plague Bearer | The percentage probability of the  Plague Bearer appearing | 0%~100% | 0% |
+|Infect cooldown|The Cooldown of Infectng the role of player|10s~60s|10s|
 
 ------------------------------
 ## Mass murderer
 ###**Team: Serial killer(killing)**
+The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around.
 
 # All is hero server
 There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
