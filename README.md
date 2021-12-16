@@ -1,4 +1,4 @@
-# Among us 4: new 36 roles
+# Among us 4: new 40 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
 this is version 1 of Among us 4(Among us 4: new 9 roles).
@@ -572,7 +572,7 @@ settings
 -----------------------------
 ## Plague Bearer
 ###**Team: Serial killer(support)**
-The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected person. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic hoseman, and kill the player with a 3-second waiting cooldown.
+The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic hoseman, and kill the player with a 3-second waiting cooldown.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -582,7 +582,7 @@ settings
 ------------------------------
 ## Mass murderer
 ###**Team: Serial killer(killing)**
-The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around.
+The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
 
 # All is hero server
 There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
