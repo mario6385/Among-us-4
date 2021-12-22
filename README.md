@@ -71,14 +71,18 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 
 -----------------------
 # History
-# Version 1 update
+# Season 1 update
+## Settings
+|Name|Description|Range|Default|
+|----------|:-------------:|:------:|:------:|
+|Impostors can see each other's ||||
 ## Roles
 ## Medic
 ![1 의사](https://user-images.githubusercontent.com/93028495/138575578-26ce10ec-8212-4623-a5d5-d14564e25109.png)
 ![1 의사](https://user-images.githubusercontent.com/93028495/141615799-9c5042b3-dc45-4958-81eb-098f7ab15f96.png)
 
 ### **Team: Crewmate**
-The Medic is a Crewmate who can also revive a dead body. If the Medic reports a dead body, they can get a report containing clues to the Killer's identity.
+The Medic is a Crewmate who can  revive a dead body.
 
 ### Game Options
 | Name | Description | Range | Default |
@@ -103,12 +107,11 @@ The Sheriff is a Crewmate who can kill the Impostors. However, if they kill a Cr
 | Show Sheriff | Whether everybody can see who the Sheriff is | True/False | False |
 | Sheriff Miskill Kills Crewmate | Whether the other player is killed if the Sheriff Misfires | True/False | False |
 | Sheriff Kills Jester | Whether the Sheriff is able to kill the Jester | True/False | False |
-| Sheriff Kills serial killer | Whether the Sheriff is able to kill serial killer | True/False | False |
 | Sheriff Kills Arsonist | Whether the Sheriff is able to kill the Arsonist | True/False | False |
-| Sheriff Kills plague bearer | Whether the Sheriff is able to kill the plague bearer | True/False | False |
+| Sheriff Kills Plague bearer | Whether the Sheriff is able to kill the plague bearer | True/False | False |
 | Sheriff Kill Cooldown | The cooldown of Sheriff's killing | 10~60s | 25s |
 | Sheriff can report who they've killed | Whether the Sheriff is able to report their own kills | True/False | True |
-| Sheriff count | The number of Sheriffs | 1~3 players | 1 player |
+| Sheriff count | The number of Sheriffs | 1~4 players | 1 player |
 
 -----------------------
 ## Engineer
@@ -279,13 +282,19 @@ The Glitch is a Serial killer who can Hack players. hacked player can't report b
 | Glitch Hack Distance | How far away The Glitch can Hack someone from | Short / Normal / Long | Short |
 
 ------------------------
-# version 3 update
+## What happened when this update
+- Excutioner and Yandere were added with no role.\
+- Excutioner was going to be added with survivor.\
+- Sheriff has been with Yandere in the game.\
+----------------------------------
+
+# season 3 update
 ## Roles
 ## Guardian
 ![5 경호원](https://user-images.githubusercontent.com/93028495/138583400-4828fac4-c3de-4c40-8121-6aba88b9bbda.png)
 ![5 경호원](https://user-images.githubusercontent.com/93028495/142182732-4996a199-46af-4d72-bcf0-90bba3e23e29.png)
 ### **Team: Crewmate**
-The Guardian is a crewmate who can protect any player they wish for 1 round. In those 10 rounds, any attack towards the player is negated. Any player that tried to attack them will have their ability put back on cooldown, but it will have had no effect.
+The Guardian is a crewmate who can protect any player they wish for 1 round. In those 1 rounds, any attack towards the player is negated. Any player who tried to attack them will have their ability put back on cooldown, but it will have had no effect.
 | Name | Description | Type | Default |
 |----------|:-------------:|:------:|:------:|
 | Guardian | The percentage probability of The Guardian appearing | 0%-100% | 0% |
@@ -306,31 +315,33 @@ The Swapper is a Crewmate who activates in meetings. The Swapper can swap votes 
 ## Mayor
 ![7 시장](https://user-images.githubusercontent.com/93028495/138583858-d523a724-e971-4a14-9dfd-9f094833fc24.png)
 ![7 시장](https://user-images.githubusercontent.com/93028495/142182773-e11aa297-4dfc-46a1-84b2-091181527f74.png)
-### **Team: Crewmate(support)**
-The Mayor is a Crewmate who can vote multiple times.\
-The Mayor has a Vote Bank, which is the number of times they can vote.\
-They have the option to abstain their vote during a meeting, adding that vote to the Vote Bank.\
-As long as not everyone has voted, the Mayor can use as many votes from their Vote Bank as they please.
+### **Team: Crewmate(vote)**
+The Mayor is a Crewmate who can use 2~5 votes.
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Mayor | The percentage probability of the Mayor appearing | 0%~100% | 0% |
-| Mayor's Vote |  | 2~5 votes | 2 votes |
+| Mayor's Vote | - | 2~5 votes | 2 votes |
 | Mayor Votes Show Anonymous | Whether the Mayor's extra votes will show up anonymously | True/False | False |
 
 ------------------------
 ## Dictator
 ![8 독재자](https://user-images.githubusercontent.com/93028495/138583865-e855d924-5118-4aa6-be64-ae61caf8ea54.png)
 ![8 독재자](https://user-images.githubusercontent.com/93028495/142182802-3bd3e4b7-0311-4df7-bbe5-b4980bd7b2d0.png)
-### **Team: Crewmate(support)**
-The Dictator's opportunities make dictator able to kill 1 player at one meetings.(But dictator can't use their opportunities in two day in a row.)
+### **Team: Crewmate(vote)**
+The Dictator is a Crewmate who can use 10 votes(court). But they can't use their court in two day in a row.
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | dictator | The percentage probability of the dictator appearing | 0%~100% | 0% |
-| dictator's opportunities | number of dictaor's opportunities | 5~50 opportunities | 50 opportunities |
+| court amount | - | 3~10 | 3 |
 
--------------------------
-# version 4 update
+---------------------------
+## What happened when this update
+- Blackmailer and Glitch has been with Guardian, Swapper, Mayor, Dictator in the game.
+- my sister swapped the role of 2 player. so, I replayed this game. she won't do it again.
+
+-----------------------------
+# season 4 update
 ## Roles
 ## Phoenix
 ![9 불사신](https://user-images.githubusercontent.com/93028495/138585431-9a9bf897-4a29-461e-9861-610398d38aa9.png)
@@ -383,12 +394,12 @@ The crewstor is an impostor who can do tasks for impostor's victory.
 | Crewstor's tasks | The number of Crewstor's tasks | 10~30 tasks | 10 tasks |
 
 ------------------------
-# version 5 update
-# Roles
-settings
+# season 5 update
+# Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
-| Witch is Impostor | Whether witch is Impostor | True/false | false |
+| Coven member is in Impostor team | Whether Coven member is in Impostor team | True/false | false |
+# Roles
 
 ## Investigator
 ![12 조사관](https://user-images.githubusercontent.com/93028495/138590702-5d71e84d-caaf-47e7-bea2-a3646214758b.png)
@@ -453,14 +464,19 @@ settings
 | Poison Cooldown | The cooldown of Poisoning a player | 10s-60s | 30s |
 
 -------------------------
-# version 6 roles
+# season 6 update
+# Settings
+|Name|Description|Range|Default|
+|----------|:-------------:|:------:|:------:|
+| Predator | The number of Predator | 0~2 | 0 |
+# roles
 
 ## Curser
 ![7 저주자](https://user-images.githubusercontent.com/93028495/142183281-8249325b-4914-491e-b526-8a38b0a4d3b7.png)
 ![7 저주자](https://user-images.githubusercontent.com/93028495/146911691-e29d90a5-4ab3-4077-911f-504cfa264ebc.png)
 ### **Team: Impostor(support)**
 
-Curser is an Impostor who can can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
+Curser is an Impostor who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -476,11 +492,10 @@ settings
 |You must survive the game by fooling the Impostor(s) and killing everyone.|
 |----------|
 
-Predator is a role that only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
+Predator is a role that only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. But when  They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
-| Predator | The percentage probability of the Predator appearing | 0%~100% | 0% |
 |Predator can assassinate| if it's true, Predator can kill other player to get effect. |True/False|False|
 
 -------------------------
@@ -496,8 +511,13 @@ Settings
 |sidekick can sidekick other player|Whether sidekick can sidekick other player|True/Jackal die first|Jackal die first|
 
 -----------------------------
-# version 7 roles
+## What happened when this update
+- Student president has been in the game until this update.
 
+-----------------------------
+# Season 7 update 
+# Roles
+# Ver 7.1
 ## V.I.P
 ![14 귀빈](https://user-images.githubusercontent.com/93028495/143764777-883e6b2b-b65e-48a5-bbd3-c4807af98c39.png)
 ### **Team: Crewmate(Support)**
@@ -543,6 +563,7 @@ Settings
 |Hex cooldown|The cooldown of Hexing player|10s~60s|30s|
 
 ---------------------------
+# Ver 7.2
 ## Undertaker
 ### **Team: Impostor(deception)**
 Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.
@@ -561,9 +582,14 @@ The Underdog is an Impostor with a prolonged kill cooldown. When they are the on
 | underdog | The percentage probability of the underdog appearing | 0%~100% | 0% |
 |underdog first kill cooldown|The cooldown of first underdog's kill cooldown|15s-60s|15s|
 
--------------------------------
-# version 8 roles
+--------------------------
+## What happened when this update
+- my sister has tried to remove all roles she allowed to play less than 2 roles.
 
+--------------------------
+# season 8 update(coming soon)
+
+# roles
 ## Seer
 ### **Team: Crewmate(investigative)**
 The Seer is a Crewmate who can reveal the roles of other players without doing no tasks. Based on settings, the Seer can find out whether a role is Good or Evil.\
@@ -571,8 +597,8 @@ settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | Seer | The percentage probability of the Seer appearing | 0%~100% | 0% |
-|reveal cooldown|The Cooldown of revealing the role of player|10s-60s|10s|
-|jester is revealed as impostor|Whether the jester is revealed as impostor|true/false|true|
+|Reveal cooldown|The Cooldown of revealing the role of player|10s-60s|10s|
+|Jester is revealed as impostor|Whether the jester is revealed as impostor|true/false|true|
 
 ------------------------------
 ## Medium
@@ -597,54 +623,24 @@ settings
 ## Mass murderer
 ###**Team: Serial killer(killing)**
 The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
-
-# All is hero server
-There is 7 or 9 player in this mod. only "town of roles" member enter This server(explaining when there is 9 players).
-
-## season 1
-roles
-- Medic
-- Sheriff
-- Engineer
-- Cat(appears when there is 9 players)
-- Jester
-- Survivor
-- Janitor
-- Blackmailer
-- Morphling(appears when there is 9 players)
-
-## season 2
-roles
-- Guardian
-- Swapper
-- Mayor
-- Dictator
-- Yandere
-- Excutioner
-- Serial killer
-- Arsonist(appears when there is 9 players)
-- Glitch(appears when there is 9 players)
-
-## season 3
-roles
-- Phoenix
-- Spirit
-- Investigator
-- Mentalist
-- Student president
-- Crewstor
-- Anti tasker
-- Witch(appears when there is 9 players)
-- Poisoner(appears when there is 9 players)
-
-## season 4
-coming soon
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| Mass murderer | The percentage probability of the Mass murderer appearing | 0%~100% | 0% |
 
 -----------------------------
+# Other update plan
+Season 9
+new roles: Snitch, Visionary, Analyst, Oracle, Assassin
+Season 10
+new roles: Framer, Hypnotist, Guesser, Phantom
+Season 11
+new modifier: Deseased, Flash
+new roles: Cultist, Vulture
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
-### sunny6386
+### sunny6386(my sister)
 person who plays the game with mario6385 together and added crewmate/impostor roles
 ### Other members
 people who plays the game with mario6385 together(Private members)
@@ -654,13 +650,13 @@ people who plays the game with mario6385 together(Private members)
 - kiyo
 - cheeze
 
-
 -----------------------------
 ## references
 These roles are only in "offline among us":
-- cat
-- student president
-- crewstor
-- yandere
-- predator(smilar role can be played)
-- amnesiac(smilar role can be played)
+- Cat
+- Student president
+- Crewstor
+- Yandere
+- Predator(smilar role can be played)
+- Amnesiac(smilar role can be played)
+- Mass murderer(smilar role can be played)
