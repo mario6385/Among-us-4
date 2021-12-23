@@ -83,7 +83,7 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 ![1 의사](https://user-images.githubusercontent.com/93028495/141615799-9c5042b3-dc45-4958-81eb-098f7ab15f96.png)
 
 ### **Team: Crewmate**
-The Medic is a Crewmate who can  revive a dead body.
+The Medic is a Crewmate who can  revive a dead body. but revived player can't talk.
 
 ### Game Options
 | Name | Description | Range | Default |
