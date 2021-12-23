@@ -586,7 +586,8 @@ Settings
 
 --------------------------
 ## What happened when this update
-- my sister has tried to remove all roles she allowed to play less than 2 roles.
+- my sister has tried to remove all roles. however, she allowed to play less than 2 roles.
+- Morphling has been in the game with Hex master and V.I.P.
 
 --------------------------
 # season 8 update(coming soon)
