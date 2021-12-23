@@ -15,9 +15,10 @@ this is version 4 of Among us 4(Among us 4: new 22 roles).
 ![버전 5](https://user-images.githubusercontent.com/93028495/142751947-97fe5895-cde6-41fd-b780-df3931f0c261.png)
 this is version 5 of Among us 4(Among us 4: new 27 roles).
 ![버전 6](https://user-images.githubusercontent.com/93028495/141065541-fe7e4b10-e121-450b-841e-924054fafe00.png)
+![버전 6](https://user-images.githubusercontent.com/93028495/147187586-1e1ff0d2-c51a-4993-b459-d09499724b1c.png)
 this is version 6 of Among us 4(Among us 4: new 30 roles).\
 
-**version 1 roles**<br/>
+**season 1 roles**<br/>
 - [Medic](#medic)
 - [Sheriff](#sheriff)
 - [Engineer](#engineer) 
@@ -28,38 +29,38 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 - [Morphling](#morphling) 
 - [Blackmailer](#blackmailer)
 
-**version 2 roles**<br/>
+**season 2 roles**<br/>
 - [Executioner](#executioner)
 - [Yandere](#yandere)
 - [Serial killer](#serial-killer)
 - [Arsonist](#arsonist)
 - [Glitch](#glitch)
 
-**version 3 roles**<br/>
+**season 3 roles**<br/>
 - [Guardian](#guardian)
 - [Swapper](#swapper)
 - [Mayor](#mayor)
 - [Dictator](#dictator)
 
-**version 4 roles**<br/>
+**season 4 roles**<br/>
 - [Phoenix](#phoenix)
 - [Spirit](#spirit)
 - [Anti tasker](anti-tasker)
 - [Crewstor](#crewstor)
 
-**version 5 roles**<br/>
+**season 5 roles**<br/>
 - [Investigator](#investigator)
 - [Mentalist](#mentalist)
 - [Student president](#student-president)
 - [Witch](#witch)
 - [Poisoner](#poisoner)
 
-**version 6 roles**<br/>
+**season 6 roles**<br/>
 - [Curser](#curser)
 - [Predator](#predator)
 - [Jackal](#jackal)
 
-**version 7 roles**<br/>
+**season 7 roles**<br/>
 - [V.I.P](#vip)
 - [Amnesiac](#amnesiac)
 - [Consort](#consort)
