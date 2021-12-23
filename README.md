@@ -567,7 +567,7 @@ Settings
 # Ver 7.2
 ## Undertaker
 ### **Team: Impostor(deception)**
-Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.
+Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.\
 Settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -577,7 +577,8 @@ Settings
 ----------------------------
 ## Underdog
 ### **Team: Impostor(support)**
-The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have halfed kill cooldown.
+The Underdog is an Impostor with a prolonged kill cooldown. When they are the only remaining Impostor, they will have halfed kill cooldown.\
+Settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 | underdog | The percentage probability of the underdog appearing | 0%~100% | 0% |
