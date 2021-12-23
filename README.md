@@ -612,7 +612,7 @@ settings
 
 -----------------------------
 ## Plague Bearer
-###**Team: Serial killer(support)**
+### **Team: Serial killer(support)**
 The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic hoseman, and kill the player with a 3-second waiting cooldown.
 settings
 |Name|Description|Range|Default|
@@ -622,7 +622,7 @@ settings
 
 ------------------------------
 ## Mass murderer
-###**Team: Serial killer(killing)**
+### **Team: Serial killer(killing)**
 The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
 settings
 |Name|Description|Range|Default|
