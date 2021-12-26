@@ -590,7 +590,7 @@ Settings
 - Morphling has been in the game with Hex master and V.I.P.
 
 --------------------------
-# season 8 update(coming soon)
+# season 8 update
 
 # roles
 ## Seer
@@ -632,14 +632,16 @@ settings
 | Mass murderer | The percentage probability of the Mass murderer appearing | 0%~100% | 0% |
 
 -----------------------------
+## What happened when this update
+- my sister has tried to remove all roles. however, she allowed to play less than 2 roles.
+------------------------------
 # Other update plan
 Season 9
 new roles: Snitch, Visionary, Analyst, Oracle, Assassin
 Season 10
-new roles: Framer, Hypnotist, Guesser, Phantom
+new roles: Framer, Hypnotist, Guesser, Phantom, Cultist
 Season 11
 new modifier: Deseased, Flash
-new roles: Cultist, Vulture
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
