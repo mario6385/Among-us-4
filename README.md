@@ -586,7 +586,7 @@ Settings
 
 --------------------------
 ## What happened when this update
-- my sister has tried to remove all roles. however, she allowed to play less than 2 roles.
+- my sister has tried to remove all roles(but not sheriff). however, she allowed to play less than 2 roles.
 - Morphling has been in the game with Hex master and V.I.P.
 
 --------------------------
@@ -633,11 +633,11 @@ settings
 
 -----------------------------
 ## What happened when this update
-- my sister has tried to remove all roles. however, she allowed to play less than 2 roles.
+- my sister has tried to remove all roles(but not sheriff). however, she allowed to play less than 2 roles.
 ------------------------------
 # Other update plan
 Season 9
-new roles: Snitch, Visionary, Analyst, Oracle, Assassin
+new roles: Visionary, Analyst, Oracle, Snitch, Assassin
 Season 10
 new roles: Framer, Hypnotist, Guesser, Phantom, Cultist
 Season 11
@@ -654,6 +654,8 @@ people who plays the game with mario6385 together(Private members)
 - bluecheeze
 - kiyo
 - cheeze
+- mymelody008
+- molly009
 
 -----------------------------
 ## references
