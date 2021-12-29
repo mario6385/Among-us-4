@@ -615,7 +615,7 @@ settings
 -----------------------------
 ## Plague Bearer
 ### **Team: Serial killer(support)**
-The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic hoseman, and kill the player with a 3-second waiting cooldown.
+The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic horseman, and kill the player with a 3-second waiting cooldown.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
