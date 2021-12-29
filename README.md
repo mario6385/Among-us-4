@@ -556,7 +556,7 @@ Settings
 ## Hex master
 ![3 주술사](https://user-images.githubusercontent.com/93028495/143764875-9492f8b7-6ed8-4877-b7b4-e12ff703d2f1.png)
 ### **Team: Coven**
-Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.
+Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.\
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
