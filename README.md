@@ -633,15 +633,15 @@ settings
 
 -----------------------------
 ## What happened when this update
-- my sister has tried to remove all roles(but not sheriff). however, she allowed to play less than 2 roles.
+- my sister removed all roles at next version(but not sheriff).
 ------------------------------
 # Other update plan
-Season 9
-new roles: Visionary, Analyst, Oracle, Snitch, Assassin
-Season 10
-new roles: Framer, Hypnotist, Guesser, Phantom, Cultist
-Season 11
-new modifier: Deseased, Flash
+Season 9\
+new roles: Visionary, Analyst, Oracle, Snitch, Assassin\
+Season 10\
+new roles: Framer, Hypnotist, Guesser, Phantom, Cultist\
+Season 11\
+new modifier: Deseased, Flash\
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
