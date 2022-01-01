@@ -68,29 +68,28 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 - [Undertaker](#undertaker)
 - [Underdog](#underdog)
 
+**season 8 roles**<br/>
+- [Analyst](#analyst)
+- [Visionary](#visionary)
+- [Oracle](#oracle)
+
 [see "town of roles" member](#team-town-of-roles-member)
 
 -----------------------
 # History
 # Season 1 update
-## Settings
-|Name|Description|Range|Default|
-|----------|:-------------:|:------:|:------:|
-|Impostors can see each other's ||||
 ## Roles
 ## Medic
 ![1 의사](https://user-images.githubusercontent.com/93028495/138575578-26ce10ec-8212-4623-a5d5-d14564e25109.png)
 ![1 의사](https://user-images.githubusercontent.com/93028495/141615799-9c5042b3-dc45-4958-81eb-098f7ab15f96.png)
 
 ### **Team: Crewmate**
-The Medic is a Crewmate who can  revive a dead body. but revived player can't talk.
+The Medic is a Crewmate who can revive a dead body. but revived player can't talk(explain when there is morphling).
 
 ### Game Options
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
 | Medic | The percentage probability of the Medic appearing | 0%~100% | 0% |
-| Show Shielded Player | Who should be able to see who is Shielded | Self / Medic / Self + Medic / Everyone | Self |
-| Show Medic Reports | Whether the Medic gets information when reporting a body | True/False | True |
 | Revive cooldown | The Cooldown of reviving | 5s~60s | 10s |
 
 -----------------------
@@ -532,9 +531,10 @@ Settings
 -----------------------------
 ## Amnesiac
 ![4 기억 상실자](https://user-images.githubusercontent.com/93028495/143764794-c8ff2514-a279-466c-8fee-a465c4cd809f.png)
+![4 기억상실자](https://user-images.githubusercontent.com/93028495/147848987-67205ffe-74ed-49d4-ba48-0cddc936c23f.png)
 ### **Team: Neutral(Benign)**
 
-Amnesiac is a neutral player who cannot do anything, but they can remember() dead's role. then, their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they can win by surviving the game.
+Amnesiac is a neutral player who cannot do anything, but they can play(remember) dead's role at meetings. then, they lose their current role. If every player survived, and the amnesiac kept their role until end of the game, they can win by surviving the game.
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -543,6 +543,7 @@ Settings
 -----------------------------
 ## Consort
 ![8 마담](https://user-images.githubusercontent.com/93028495/143764812-896868b5-994d-4c77-b569-692bb3896686.png)
+![8 마담](https://user-images.githubusercontent.com/93028495/147848990-8d84e7af-54f3-48a8-a9e9-7e2b7a6ce911.png)
 ### **Team: Impostor(Surpport)**
 
 Consort is a impostor who can roleblock player. roleblocked will be unable to use their ablity. but Arsonist/Coven member/Neutral player can't be roleblocked.
@@ -555,6 +556,8 @@ Settings
 --------------------------------
 ## Hex master
 ![3 주술사](https://user-images.githubusercontent.com/93028495/143764875-9492f8b7-6ed8-4877-b7b4-e12ff703d2f1.png)
+![3 주술사](https://user-images.githubusercontent.com/93028495/147849014-7f7604f5-50e6-47ce-9686-5658610bdcab.png)
+
 ### **Team: Coven**
 Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.\
 Settings
@@ -566,6 +569,8 @@ Settings
 ---------------------------
 # Ver 7.2
 ## Undertaker
+![9 장의사](https://user-images.githubusercontent.com/93028495/147849031-fe4aea6f-306f-474b-98c5-d321232cc5ee.png)
+![9 장의사](https://user-images.githubusercontent.com/93028495/147849019-5667da4e-9c31-48cf-815d-df0771e4b709.png)
 ### **Team: Impostor(deception)**
 Undertaker is an Impostor who can drag and drop bodies. But they can drag and drop Impostor's dead body.\
 Settings
@@ -593,9 +598,10 @@ Settings
 # season 8 update
 
 # roles
+# Ver 8.1
 ## Seer
 ### **Team: Crewmate(investigative)**
-The Seer is a Crewmate who can reveal the roles of other players without doing no tasks. Based on settings, the Seer can find out whether a role is Good or Evil.\
+The Seer is a Crewmate who can reveal the roles of other players without doing no tasks. the Seer can find out whether a role is Good or Evil.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -615,7 +621,7 @@ settings
 -----------------------------
 ## Plague Bearer
 ### **Team: Serial killer(support)**
-The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic horseman, and kill the player with a 3-second waiting cooldown.
+The plague bearer is a serial killer who can infect other players. In each round, the number of people who can infect the plague bearer increases as the round goes over, and the first round starts with one infected player. If an infected player dies, the plague bearer will have one less chance to infect the player. When everyone in the game is infected, the plague bearer can become a pestilence, a catastrophic horseman, and kill the player with a 3-second cooldown.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -625,7 +631,7 @@ settings
 ------------------------------
 ## Mass murderer
 ### **Team: Serial killer(killing)**
-The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
+The mass murderer is a serial killer who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -633,15 +639,65 @@ settings
 
 -----------------------------
 ## What happened when this update
-- my sister removed all roles at next version(but not sheriff).
+- my sister may've tried to remove all roles at next version(but not sheriff).
+--------------------------------
+# Ver 8.2
+## Analyst
+### **Team: Crewmate(investigative)**
+The Analyst is a Crewmate who reports the dead body to see role of their killer. If the player died on impostor, they only see the killer's side\. 
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| Analyst | The percentage probability of the Analyst appearing | 0%~100% | 0% |
+
+------------------------------------
+## Visionary
+### **Team: Crewmate(investigative)**
+The Visionary is a Crewmate who gets psychic readings from meetings. On odd numbered meetings, the Visionary will receive 3 names, and 3 player will be highlighted red. At LEAST 1 of those 3 player will be evil, it could either be 1, 2, or all 3. On even numbered meetings, the Visionary will receive 2 names, and 2 player will be highlighted blue. At LEAST 1 of those 2 player will be crewmate, it could either be 1, or both.\
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| Visionary | The percentage probability of the Visionary appearing | 0%~100% | 0% |
+
+---------------------------------
+## Oracle
+### **Team: Crewmate(investigative)**
+The Oracle is a Crewmate who can predict 1 player. a predicted player's team will be seen to everyone at next meetings(but predator show up as Impostor). if Oracles see each other, they cannot predict each others.\
+**if Oracle can predict a predicted and they all predicted same player**
+if you are predicted by 2 oracles, and you are predator, you will show up as a predator.\
+if you are predicted by 3 oracles, your role will be seen to everyone.\
+
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+| Oracle | The percentage probability of the Oracle appearing | 0%~100% | 0% |
+| Oracle count | number of oracle(s) | 1~3 | 1 |
+|Oracle can predict a predicted|Whether the Oracle can predict a predicted|true/false|true|
+|Oracles see each other|Whether the Oracles sees each other|true/false|false|
+
 ------------------------------
+## Assassin
+### **Team: Impostor(killing)**
+The Assassin is a role, that once per game, can guess the role of another player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Assassin | The percentage probability of the Assassin appearing | 0%~100% | 0% |
+|Assassin count | number of Assassin(s) | 1~3 | 1 |
+
+--------------------------------
+# ver 8.3
+## Snitch
+### **Team: Crewmate(investigative)**
+
+The Snitch is a Crewmate who can get arrows pointing towards the Impostors, once all their tasks are finished. The names of the Impostors will also show up as red on their screen. Based on game settings, the Snitch may not know who they are until they have one task left. However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.
+
+---------------------------------
 # Other update plan
 Season 9\
-new roles: Visionary, Analyst, Oracle, Snitch, Assassin\
-Season 10\
 new roles: Framer, Hypnotist, Guesser, Phantom, Cultist\
-Season 11\
-new modifier: Deseased, Flash\
+Season 10\
+new modifier: Deseased, Flash
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
@@ -667,3 +723,4 @@ These roles are only in "offline among us":
 - Predator(smilar role can be played)
 - Amnesiac(smilar role can be played)
 - Mass murderer(smilar role can be played)
+- Analyst(smilar role can be played)
