@@ -534,7 +534,7 @@ Settings
 ![4 기억 상실자](https://user-images.githubusercontent.com/93028495/143764794-c8ff2514-a279-466c-8fee-a465c4cd809f.png)
 ### **Team: Neutral(Benign)**
 
-Amnesiac is a neutral player who cannot do anything, but they can shift their role to dead's role. their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they can win by surviving the game.
+Amnesiac is a neutral player who cannot do anything, but they can remember() dead's role. then, their win condition is same as role that they shifted to. If every player survived, and Amnesiac kept their role until end of the game, they can win by surviving the game.
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
