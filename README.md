@@ -690,29 +690,17 @@ settings
 ## Snitch
 ### **Team: Crewmate(investigative)**
 
-The Snitch is a Crewmate who can get arrows pointing towards the Impostors after all their tasks are finished. The names of the Impostors will also show up as red on their screen. Based on game settings, the Snitch may not know who they are until they have one task left. However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.\
-settings: none
+The Snitch is a Crewmate who can get arrows pointing towards the Impostors after all their tasks are finished. The names of the Impostors will also show up as red on their screen However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.\
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Snitch| The percentage probability of the Snitch appearing | 0%~100% | 0% |
 
 ---------------------------------
 # I say....
 my sister made the rule. however, this is spoling the game.
 - Among us 4 ends at 2nd round.
-and the server was closed due to rule.\
-I am unhappy because my sister spoiled the game.\
 My sister reflected my swear.
-## How you can do
-**When my sister executed the rule about among us 4**
-- Way 1(availiable per 25~36 hours)\
-Step 1: Change the rule about Among us 4.\
-Step 2: If it works, Don't Give any pain to my sister. If it's not working, you can follow Step 3.\
-Step 3: Swear or Slap my sister. but don't do these both until it's not working.\
-Step 4: If my sister starts to cry, you must apologize to her.
-- Way 2(When my mom banned playing Among us 4 to me)\
-Step 1: to someone who you know, tell that my mom is pretty.\
-**When your nagging is reflected by my sister**
-Step 1: smash her head or slap her once\
-Step 2: flee fast\
-**however, don't do it**
 
 ---------------------------------
 # Other update plan
