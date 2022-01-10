@@ -698,9 +698,7 @@ settings
 
 ---------------------------------
 # I say....
-my sister made the rule. however, this is spoling the game.
-- Among us 4 ends at 2nd round.
-My sister reflected my swear.
+my sister force closed the server.
 
 ---------------------------------
 # Other update plan
