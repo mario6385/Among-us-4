@@ -69,9 +69,15 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).\
 - [Underdog](#underdog)
 
 **season 8 roles**<br/>
+- [Seer](#seer)
+- [Medium](#medium)
+- [Plague bearer](#plague_bearer)
+- [Mass murderer](#mass_murderer)
 - [Analyst](#analyst)
 - [Visionary](#visionary)
 - [Oracle](#oracle)
+- [Assassin](#assassin)
+- [Snitch](#snitch)
 
 [see "town of roles" member](#team-town-of-roles-member)
 
@@ -703,9 +709,7 @@ settings
 ---------------------------------
 # Other update plan
 Season 9\
-new roles: Framer, Hypnotist, Guesser, Phantom, Cultist\
-Season 10\
-new modifier: Deseased, Flash
+new roles: Framer, Hypnotist, Guesser, Phantom, Cultist
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
