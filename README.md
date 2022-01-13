@@ -661,7 +661,7 @@ settings
 
 ---------------------------------
 ## Oracle
-### **Team: Crewmate(investigative)**
+### **Team: Crewmate(revealing)**
 The Oracle is a Crewmate who can predict 1 player. a predicted player's team will be seen to everyone at next meetings(but predator show up as Impostor). if Oracles see each other, they cannot predict each others.\
 **if Oracle can predict a predicted and they all predicted same player**
 if you are predicted by 2 oracles, and you are predator, you will show up as a predator.\
@@ -686,19 +686,19 @@ settings
 |Assassin count| number of Assassin(s) | 1~3 | 1 |
 
 --------------------------------
+## What happened when this update
+my sister has force closed the server. however, I undid it. 
+
+--------------------------------
 # ver 8.3
 ## Snitch
-### **Team: Crewmate(investigative)**
+### **Team: Crewmate(revealing)**
 
 The Snitch is a Crewmate who can get arrows pointing towards the Impostors after all their tasks are finished. The names of the Impostors will also show up as red on their screen However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 |Snitch| The percentage probability of the Snitch appearing | 0%~100% | 0% |
-
----------------------------------
-# I say....
-my sister force closed the server.
 
 ---------------------------------
 # Other update plan
@@ -719,7 +719,7 @@ people who plays the game with mario6385 together(Private members)
 - kiyo
 - cheeze
 - mymelody008
-- molly009
+- molly009(deleted)
 
 -----------------------------
 ## references
@@ -727,7 +727,7 @@ These roles are only in "offline among us":
 - Cat
 - Student president
 - Crewstor
-- Yandere
+- Yandere(smilar role can be played)
 - Predator(smilar role can be played)
 - Amnesiac(smilar role can be played)
 - Mass murderer(smilar role can be played)
