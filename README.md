@@ -16,7 +16,7 @@ this is version 4 of Among us 4(Among us 4: new 22 roles).
 this is version 5 of Among us 4(Among us 4: new 27 roles).
 ![버전 6](https://user-images.githubusercontent.com/93028495/141065541-fe7e4b10-e121-450b-841e-924054fafe00.png)
 ![버전 6](https://user-images.githubusercontent.com/93028495/147187586-1e1ff0d2-c51a-4993-b459-d09499724b1c.png)
-this is version 6 of Among us 4(Among us 4: new 30 roles).\
+this is version 6 of Among us 4(Among us 4: new 30 roles).
 
 **season 1 roles**<br/>
 - [Medic](#medic)
@@ -706,6 +706,11 @@ settings
 |---------|:-----------:|:----------:|:------------:|
 |Snitch| The percentage probability of the Snitch appearing | 0%~100% | 0% |
 
+# mode
+# ver 8.3
+## anonymous mode
+- Impostors don't know and can kill each other.
+- If impostors won by sabotage, they win together.
 ---------------------------------
 # Other update plan
 Season 9\
