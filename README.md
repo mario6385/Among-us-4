@@ -711,6 +711,8 @@ settings
 ## anonymous mode
 - Impostors don't know and can kill each other.
 - If impostors won by sabotage, they win together.
+-----------------------------------
+# season 9 update
 ---------------------------------
 # Other update plan
 Season 9\
@@ -728,8 +730,9 @@ people who plays the game with mario6385 together(Private members)
 - kiyo
 - cheeze
 - mymelody008
-- molly009(deleted)
-
+- molly009
+- yunseo010
+-----------------------------
 -----------------------------
 ## references
 These roles are only in "offline among us":
