@@ -79,6 +79,13 @@ this is version 6 of Among us 4(Among us 4: new 30 roles).
 - [Assassin](#assassin)
 - [Snitch](#snitch)
 
+**season 9 roles**<br/>
+- [Hypnotist](#hypnotist)
+- [Framer](#framer)
+- [Guesser](#Guesser)
+- [Cultist](#cultist)
+- [Phantom](#phantom)
+
 [see "town of roles" member](#team-town-of-roles-member)
 
 -----------------------
@@ -684,7 +691,7 @@ settings
 ------------------------------
 ## Assassin
 ### **Team: Impostor(killing)**
-The Assassin is an Impostor who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+Assassin is an Impostor who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -700,7 +707,7 @@ my sister has force closed the server. however, I undid it.
 ## Snitch
 ### **Team: Crewmate(revealing)**
 
-The Snitch is a Crewmate who can get arrows pointing towards the Impostors after all their tasks are finished. The names of the Impostors will also show up as red on their screen However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.\
+Snitch is a Crewmate who can get arrows pointing towards the Impostors after all their tasks are finished. The names of the Impostors will also show up as red on their screen. However, when they only have a single task left, the Impostors get an arrow pointing towards the Snitch.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -713,10 +720,45 @@ settings
 - If impostors won by sabotage, they win together.
 -----------------------------------
 # season 9 update
+
+## roles
+## Hypnotist
+### **Team: Impostor(Support)**
+
+Hypnotist is an Impostor who can hypnotize 1 player per round. hypnotized player is shown to everyone, and can't do anything for 1 round.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Hypnotist| The percentage probability of the Hypnotist appearing | 0%~100% | 0% |
+|Hypnotize cooldown|The Cooldown of hypnotizing the player|10s-60s|10s|
+
+--------------------------------
+## Framer
+### **Team: Impostor(Deception)**
+Framer is an Impostor who can Frame 1~5 players per round. Framed players is known as an Impostor when they are voted out or Investigated.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Framer| The percentage probability of the Framer appearing | 0%~100% | 0% |
+|Frame cooldown|The Cooldown of Framing the player|10s-120s|10s|
+
+---------------------------------
+## Guesser
+### **Team: Serial killer(killing)**
+The Guesser is an Serial killer who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Guesser| The percentage probability of the Guesser appearing | 0%~100% | 0% |
+
+---------------------------------
+## Phantom
+### **Team: Neutral(Egoism)**
+Phantom is a neutral player who must complete their tasks in one round. Once completed, the Phantom must call an emergency meeting themselves to win the game.
+
 ---------------------------------
 # Other update plan
-Season 9\
-new roles: Framer, Hypnotist, Guesser, Phantom, Cultist
+
 ## Team "town of roles" member
 ### mario6385(leader)
 person who added roles
