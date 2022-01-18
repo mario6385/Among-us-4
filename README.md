@@ -745,7 +745,7 @@ settings
 ---------------------------------
 ## Guesser
 ### **Team: Serial killer(killing)**
-The Guesser is an Serial killer who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+The Guesser is a Serial killer who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -754,10 +754,25 @@ settings
 ---------------------------------
 ## Phantom
 ### **Team: Neutral(Egoism)**
-Phantom is a neutral player who must complete their tasks in one round. Once completed, the Phantom must call an emergency meeting themselves to win the game.
+Phantom is a neutral player who must complete their tasks in one round. Once completed, the Phantom must call an emergency meeting themselves to win the game. 1 dead crewmate will be Phantom.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Guesser| The percentage probability of the Guesser appearing | 0%~100% | 0% |
+
+---------------------------------
+## Cultist
+### **Team: Cult**
+Cultist is a neutral player who can make other players fanatic. Fanatic loses their role and all tasks. If cultist died, fanatic becomes cultist. If Cult members is more than Non-Cult members, They win.
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Cultist| The percentage probability of the Cultist appearing | 0%~100% | 0% |
+|Cult wins when they are with only crewmates|Whether Cult wins when they are with only crewmates|True/False|False|
 
 ---------------------------------
 # Other update plan
+ver 10: reporter, lawyer, lover, copier
 
 ## Team "town of roles" member
 ### mario6385(leader)
@@ -775,12 +790,12 @@ people who plays the game with mario6385 together(Private members)
 - molly009
 - yunseo010
 -----------------------------
------------------------------
 ## references
 These roles are only in "offline among us":
 - Cat
 - Student president
 - Crewstor
+- Hypnotist
 - Yandere(smilar role can be played)
 - Predator(smilar role can be played)
 - Amnesiac(smilar role can be played)
