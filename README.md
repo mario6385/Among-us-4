@@ -1,22 +1,21 @@
 # Among us 4: new 45 roles
 ![버전 1](https://user-images.githubusercontent.com/93028495/138575847-7116f508-e7a6-4fbd-b1d6-9ec3ce792507.png)
 ![버전 1](https://user-images.githubusercontent.com/93028495/141615238-73f8f5f4-b305-4157-aeca-7e8a0e3ebe16.png)
-this is version 1 of Among us 4(Among us 4: new 9 roles).
+
 ![버전 2](https://user-images.githubusercontent.com/93028495/138583975-cfa29af4-afaa-417e-ae6e-afb38d48d194.png)
 ![버전 2](https://user-images.githubusercontent.com/93028495/141982114-ff889889-8c22-431f-936d-22075c7b70b0.png)
-this is version 2 of Among us 4(Among us 4: new 14 roles).
+
 ![버전 3](https://user-images.githubusercontent.com/93028495/138583983-ad5fcc26-4a70-4599-9e65-dbd4e3e28524.png)
 ![버전 3](https://user-images.githubusercontent.com/93028495/142182571-b957ce57-7708-427a-9283-9c1bfd967a41.png)
-this is version 3 of Among us 4(Among us 4: new 18 roles).
+
 ![버전 4](https://user-images.githubusercontent.com/93028495/138585089-39ad1adc-9f72-4b40-8155-adad51658d21.png)
 ![버전 4](https://user-images.githubusercontent.com/93028495/142182600-f15cfce6-ff25-420c-b4a5-1f21eea0c230.png)
-this is version 4 of Among us 4(Among us 4: new 22 roles).
+
 ![버전 5](https://user-images.githubusercontent.com/93028495/138587530-4f6d6f6f-70d4-426b-8b48-aea173196114.png)
 ![버전 5](https://user-images.githubusercontent.com/93028495/142751947-97fe5895-cde6-41fd-b780-df3931f0c261.png)
-this is version 5 of Among us 4(Among us 4: new 27 roles).
+
 ![버전 6](https://user-images.githubusercontent.com/93028495/141065541-fe7e4b10-e121-450b-841e-924054fafe00.png)
 ![버전 6](https://user-images.githubusercontent.com/93028495/147187586-1e1ff0d2-c51a-4993-b459-d09499724b1c.png)
-this is version 6 of Among us 4(Among us 4: new 30 roles).
 
 **season 1 roles**<br/>
 - [Medic](#medic)
@@ -754,11 +753,11 @@ settings
 ---------------------------------
 ## Phantom
 ### **Team: Neutral(Egoism)**
-Phantom is a neutral player who must complete their tasks in one round. Once completed, the Phantom must call an emergency meeting themselves to win the game. 1 dead crewmate will be Phantom.
+Phantom is a neutral player who must complete their tasks. Once completed, the Phantom must call an emergency meeting themselves to win the game. 1 dead crewmate will be Phantom.
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
-|Guesser| The percentage probability of the Guesser appearing | 0%~100% | 0% |
+|Phantom| The percentage probability of the Guesser appearing | 0%~100% | 0% |
 
 ---------------------------------
 ## Cultist
@@ -771,6 +770,29 @@ settings
 |Cult wins when they are with only crewmates|Whether Cult wins when they are with only crewmates|True/False|False|
 
 ---------------------------------
+# season 10 update
+
+## roles
+## Reporter
+### **Team: Crewmate(revealing)**
+Reporter is a Crewmate who can reveal 1 player's role per game.
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Reporter| The percentage probability of the Reporter appearing | 0%~100% | 0% |
+
+------------------------------
+## Lawyer
+### **Team: Neutral(benign)**
+Lawyer is a neutral player who has 3 targets to protect from ejection. if their target(s) died by non-ejection, nothing happens.
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Lawyer| The percentage probability of the Lawyer appearing | 0%~100% | 0% |
+
+------------------------------
+r0-3m454
+sdkfwmr rl e
+
+------------------------------
 # Other update plan
 ver 10: reporter, lawyer, lover, copier
 
@@ -789,7 +811,7 @@ people who plays the game with mario6385 together(Private members)
 - mymelody008
 - molly009
 - yunseo010
------------------------------
+
 ## references
 These roles are only in "offline among us":
 - Cat
