@@ -690,7 +690,7 @@ settings
 ------------------------------
 ## Assassin
 ### **Team: Impostor(killing)**
-Assassin is an Impostor who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+Assassin is an Impostor who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -699,7 +699,7 @@ settings
 
 --------------------------------
 ## What happened when this update
-my sister has force closed the server. however, I undid it. 
+my sister has force closed the server. however, I undid it. Instead, the game hes ended at round 2.
 
 --------------------------------
 # ver 8.3
@@ -724,7 +724,7 @@ settings
 ## Hypnotist
 ### **Team: Impostor(Support)**
 
-Hypnotist is an Impostor who can hypnotize 1 player per round. hypnotized player is shown to everyone, and can't do anything for 1 round.
+Hypnotist is an Impostor who can hypnotize 1 player per round. hypnotized player is shown to everyone, and can't do anything for 1 round.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -734,7 +734,7 @@ settings
 --------------------------------
 ## Framer
 ### **Team: Impostor(Deception)**
-Framer is an Impostor who can Frame 1~5 players per round. Framed players is known as an Impostor when they are voted out or Investigated.
+Framer is an Impostor who can Frame 1~5 players per round. Framed players is known as an Impostor when they are voted out or Investigated.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -744,7 +744,7 @@ settings
 ---------------------------------
 ## Guesser
 ### **Team: Serial killer(killing)**
-The Guesser is a Serial killer who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.
+The Guesser is a Serial killer who once per round, can guess the role of other player in meetings. If they get it correct, that player dies, if they get it incorrect, they die instead.\
 settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
@@ -783,18 +783,30 @@ Reporter is a Crewmate who can reveal 1 player's role per game.
 ------------------------------
 ## Lawyer
 ### **Team: Neutral(benign)**
-Lawyer is a neutral player who has 3 targets to protect from ejection. if their target(s) died by non-ejection, nothing happens.
+Lawyer is a neutral player who has 3 targets to protect from ejection. even if their target(s) died by non-ejection, nothing happens.\
+settings
 |Name|Description|Range|Default|
 |---------|:-----------:|:----------:|:------------:|
 |Lawyer| The percentage probability of the Lawyer appearing | 0%~100% | 0% |
 
 ------------------------------
-r0-3m454
-sdkfwmr rl e
+## Lovers
+### **Team: Neutral(Egoism)**
+Lovers are a neutral players who can chat between themselves. they have a secondary role, and can win with each other or secondary team.\
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Lovers| The percentage probability of the Lovers appearing | 0%~100% | 0% |
 
 ------------------------------
+## What happened when this update
+game ends at round 7.
+
+-------------------------------
+
 # Other update plan
-ver 10: reporter, lawyer, lover, copier
+ver 11: Vulture\
+AI might be added with this role.
 
 ## Team "town of roles" member
 ### mario6385(leader)
