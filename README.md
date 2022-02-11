@@ -524,7 +524,7 @@ Settings
 
 -----------------------------
 ## What happened when this update
-- Student president has been in the game until this update.
+- Student president has needed to be in the game until this update.
 
 -----------------------------
 # Season 7 update 
@@ -571,7 +571,7 @@ Settings
 ![3 주술사](https://user-images.githubusercontent.com/93028495/147849014-7f7604f5-50e6-47ce-9686-5658610bdcab.png)
 
 ### **Team: Coven**
-Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed player will know that they are hexed.\
+Hex master is a witch who can hex everyone to kill them(excluding witch). Hexed players will know that they are hexed.\
 Settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -799,8 +799,18 @@ settings
 |Lovers| The percentage probability of the Lovers appearing | 0%~100% | 0% |
 
 ------------------------------
+## Copier
+### **Team: Neutral(Egoism)**
+Copier is a neutral player who can copy 1 player's role per game. That role will be their secondary role. When one copier won, other copier(s) will win together.\
+settings
+|Name|Description|Range|Default|
+|---------|:-----------:|:----------:|:------------:|
+|Copier| The percentage probability of the Copier appearing | 0%~100% | 0% |
+|Copier count|number of Assassin(s)|1~3|1|
+
+-------------------------------
 ## What happened when this update
-The game countinues for nine round.
+The game countinues for nine rounds.
 
 -------------------------------
 
@@ -822,7 +832,6 @@ people who plays the game with mario6385 together(Private members)
 - mymelody008
 - molly009
 - yunseo010
-
 ## references
 These roles are only in "offline among us":
 - Cat
