@@ -699,7 +699,7 @@ settings
 
 --------------------------------
 ## What happened when this update
-my sister has force closed the server. however, I undid it. Instead, the game hes ended at round 2.
+my sister has force closed the server. however, I undid it. Instead, the game has ended at round 2.
 
 --------------------------------
 # ver 8.3
@@ -800,13 +800,12 @@ settings
 
 ------------------------------
 ## What happened when this update
-game ends at round 7.
+The game countinues for nine round.
 
 -------------------------------
 
 # Other update plan
-ver 11: Vulture\
-AI might be added with this role.
+ver 11: Vulture
 
 ## Team "town of roles" member
 ### mario6385(leader)
@@ -832,6 +831,5 @@ These roles are only in "offline among us":
 - Hypnotist
 - Yandere(smilar role can be played)
 - Predator(smilar role can be played)
-- Amnesiac(smilar role can be played)
 - Mass murderer(smilar role can be played)
 - Analyst(smilar role can be played)
