@@ -813,14 +813,12 @@ settings
 The game countinues for nine rounds.
 
 -------------------------------
-
-# Other update plan
-ver 11: Vulture
+This document will not uploaded anymore.
 
 ## Team "town of roles" member
-### mario6385(leader)
+### Sean1002(leader)
 person who added roles
-### sunny6386(my sister)
+### stina(my sister)
 person who plays the game with mario6385 together and added crewmate/impostor roles
 ### Other members
 people who plays the game with mario6385 together(Private members)
