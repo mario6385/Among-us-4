@@ -488,7 +488,7 @@ settings
 ![7 저주자](https://user-images.githubusercontent.com/93028495/146911691-e29d90a5-4ab3-4077-911f-504cfa264ebc.png)
 ### **Team: Impostor(support)**
 
-Curser is an Impostor who can kill 1 player again while the kill cool time is around. then, their kill cooldown will be doubled.
+Curser is an Impostor who can kill 1 player again while the kill cool down. then, their kill cooldown will be doubled.
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -504,7 +504,7 @@ settings
 |You must survive the game by fooling the Impostor(s) and killing everyone.|
 |----------|
 
-Predator is a role that only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with impostor, only impostor win. But when  They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
+Predator is a role that only appears When there are 3 impostor in the game or that role appears by less than 100% chance. **reason is that the impostor doesn't know who predator is.** Predator is known as impostor if they are ejected. if they win with any impostor alive, only impostor win. They can kill impostor. if they assassinate sheriff, their kill cooldown will be deleted. if they kill jester, their assassinate cooldown will increase. if they assassinate other player, they will get ablity.\
 settings
 | Name | Description | Range | Default |
 |----------|:-------------:|:------:|:------:|
@@ -699,7 +699,7 @@ settings
 
 --------------------------------
 ## What happened when this update
-my sister has force closed the server. however, I undid it. Instead, the game has ended at round 2.
+my sister has closed the server by close. however, I undid it. Instead, the game has ended at 12th round.
 
 --------------------------------
 # ver 8.3
@@ -810,14 +810,14 @@ settings
 
 -------------------------------
 ## What happened when this update
-The game countinues for nine rounds.
+The game countinues for 11 rounds.
 
 -------------------------------
-This document will not uploaded anymore.
+This document will not uploaded anymore because I quit to play among us 4 with families.
 
 ## Team "town of roles" member
 ### Sean1002(leader)
-person who added roles
+person who added roles, including neutral/serial killer/coven role.
 ### stina(my sister)
 person who plays the game with mario6385 together and added crewmate/impostor roles
 ### Other members
@@ -834,7 +834,7 @@ people who plays the game with mario6385 together(Private members)
 These roles are only in "offline among us":
 - Cat
 - Student president
-- Crewstor
+- Crewstor(from Imasock)
 - Hypnotist
 - Yandere(smilar role can be played)
 - Predator(smilar role can be played)
