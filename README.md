@@ -44,7 +44,7 @@
 **season 4 roles**<br/>
 - [Phoenix](#phoenix)
 - [Spirit](#spirit)
-- [Anti tasker](anti-tasker)
+- [Anti tasker](#anti-tasker)
 - [Crewstor](#crewstor)
 
 **season 5 roles**<br/>
@@ -813,15 +813,23 @@ settings
 The game countinues for 11 rounds.
 
 -------------------------------
-This document will not uploaded anymore because I quit to play among us 4 with families.
+## Season 11 update
+ - vulture: a neutral that eats corpes to win
+ - bg player: a crewmate that can freeze impostors for few times
+ - police: a crewmate that cannot die by impostor and gets kill ablity when saw Impostor killing Other
+-------------------------------
+revenger, deathpact, Cyborg, Collector, Nymph, and Juggernaut are unused.
+
+-------------------------------
+This document may be not updated anymore because I quit to play among us 4 with families.
 
 ## Team "town of roles" member
 ### Sean1002(leader)
 person who added roles, including neutral/serial killer/coven role.
 ### stina(my sister)
-person who plays the game with mario6385 together and added crewmate/impostor roles
+person who played the game with mario6385 together and added crewmate/impostor roles
 ### Other members
-people who plays the game with mario6385 together(Private members)
+people who played the game with mario6385 together(Private members)
 - tokky
 - pinkcheeze
 - bluecheeze
@@ -830,6 +838,9 @@ people who plays the game with mario6385 together(Private members)
 - mymelody008
 - molly009
 - yunseo010
+
+#### R.I.P
+- kitty: a personnel that got out from my home due to fallacy. they is cute.
 ## references
 These roles are only in "offline among us":
 - Cat
@@ -840,3 +851,5 @@ These roles are only in "offline among us":
 - Predator(smilar role can be played)
 - Mass murderer(smilar role can be played)
 - Analyst(smilar role can be played)
+## What I feel
+I want to go back to past that I played among us 4 with my families. My god, Please let me back to 2020! 😭
